@@ -55,6 +55,7 @@ INNER JOIN orders
 GROUP BY users.username
 HAVING SUM(orders.order_amount) > 15000 ;
 
+-- Updated SQL Projects
 
 
     
