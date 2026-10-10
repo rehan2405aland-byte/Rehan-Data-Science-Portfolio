@@ -1,0 +1,441 @@
+Student_Name,Gender,Course,Study_Hours,Attendance,Maths,Programming,Database,English,Total Marks,Percentage,Performance
+Aman,Female,MCA,3,70,90,85,70,65,310,77.5,Good
+Neha,Female,BSC CS,8,80,95,100,75,85,355,88.75,Good
+Aman,Male,BSC CS,4,95,70,85,75,90,320,80.0,Good
+Priya,Female,MCA,1,90,55,40,75,85,255,63.75,Average
+Rohit,Female,BCA,6,80,100,60,65,80,305,76.25,Good
+Sneha,Male,BSC CS,3,100,35,80,80,65,260,65.0,Average
+Priya,Female,MCA,5,55,80,40,75,70,265,66.25,Average
+Rahul,Female,MCA,4,90,80,80,90,80,330,82.5,Good
+Sneha,Male,BCA,5,95,65,80,75,70,290,72.5,Average
+Priya,Female,BSC CS,4,80,95,90,95,70,350,87.5,Good
+Rahul,Female,MCA,5,100,80,100,100,40,320,80.0,Good
+Rohit,Female,BSC CS,7,85,55,95,85,95,330,82.5,Good
+Rahul,Female,BCA,2,80,90,90,90,80,350,87.5,Good
+Not Mentioned,Female,BCA,5,95,65,75,70,65,275,68.75,Average
+Aman,Female,MCA,4,60,45,40,80,80,245,61.25,Average
+Arjun,Female,BSC CS,6,100,80,90,100,80,350,87.5,Good
+Priya,Female,BSC CS,1,95,80,60,55,80,275,68.75,Average
+Arjun,Female,MCA,8,70,70,80,95,80,325,81.25,Good
+Neha,Female,BSC CS,4,80,75,95,55,65,290,72.5,Average
+Rahul,Female,BCA,5,90,80,95,95,85,355,88.75,Good
+Aman,Female,BSC CS,2,95,80,80,75,85,320,80.0,Good
+Not Mentioned,Male,BCA,2,80,45,75,80,80,280,70.0,Average
+Neha,Male,MCA,5,85,35,80,75,100,290,72.5,Average
+Rahul,Male,BSC CS,5,80,85,90,90,40,305,76.25,Good
+Aman,Female,BCA,7,60,70,85,75,65,295,73.75,Average
+Priya,Female,BSC CS,1,90,80,90,100,80,350,87.5,Good
+Not Mentioned,Female,MCA,5,80,80,80,55,85,300,75.0,Average
+Rahul,Male,MCA,7,80,90,80,65,90,325,81.25,Good
+Rohit,Female,BSC CS,5,80,80,95,80,85,340,85.0,Good
+Arjun,Female,MCA,4,95,45,100,70,85,300,75.0,Average
+Aman,Female,MCA,5,75,100,90,85,80,355,88.75,Good
+Not Mentioned,Female,BSC CS,5,100,100,90,70,90,350,87.5,Good
+Rohit,Male,BCA,5,65,80,70,65,95,310,77.5,Good
+Arjun,Male,MCA,1,85,80,85,80,50,295,73.75,Average
+Neha,Female,BSC CS,2,90,90,90,45,50,275,68.75,Average
+Neha,Female,BSC CS,5,60,45,50,65,95,255,63.75,Average
+Not Mentioned,Female,BCA,8,85,80,80,75,80,315,78.75,Good
+Sneha,Male,MCA,5,80,80,40,95,80,295,73.75,Average
+Rohit,Female,BCA,7,100,70,90,70,90,320,80.0,Good
+Neha,Male,BSC CS,5,80,45,75,75,80,275,68.75,Average
+Sneha,Male,BSC CS,5,55,85,50,65,70,270,67.5,Average
+Aman,Female,BCA,6,70,80,70,100,70,320,80.0,Good
+Priya,Male,MCA,5,85,80,95,90,95,360,90.0,Good
+Sneha,Female,BCA,4,60,95,80,75,70,320,80.0,Good
+Rohit,Male,BSC CS,8,55,45,85,75,95,300,75.0,Average
+Priya,Male,BCA,6,70,85,40,55,85,265,66.25,Average
+Sneha,Female,MCA,2,80,100,90,75,90,355,88.75,Good
+Aman,Male,MCA,5,80,75,30,75,85,265,66.25,Average
+Neha,Male,MCA,5,55,70,80,75,50,275,68.75,Average
+Arjun,Female,BCA,4,100,80,80,65,100,325,81.25,Good
+Priya,Male,BCA,3,80,90,50,75,85,300,75.0,Average
+Rohit,Female,MCA,5,90,45,50,75,50,220,55.0,Average
+Priya,Female,BCA,5,85,65,80,90,85,320,80.0,Good
+Aman,Male,MCA,4,60,55,30,55,80,220,55.0,Average
+Rohit,Female,MCA,3,55,45,90,80,65,280,70.0,Average
+Aman,Male,BCA,3,95,80,80,90,80,330,82.5,Good
+Aman,Male,BCA,5,80,55,70,75,90,290,72.5,Average
+Sneha,Male,MCA,3,60,70,85,95,80,330,82.5,Good
+Aman,Female,BSC CS,5,90,95,40,45,75,255,63.75,Average
+Arjun,Female,MCA,5,100,80,30,75,70,255,63.75,Average
+Priya,Male,BCA,8,60,85,80,65,90,320,80.0,Good
+Not Mentioned,Male,BCA,6,90,90,95,70,100,355,88.75,Good
+Not Mentioned,Female,MCA,5,80,95,40,35,80,250,62.5,Average
+Sneha,Female,BCA,8,65,95,75,55,80,305,76.25,Good
+Aman,Male,MCA,5,80,80,40,45,100,265,66.25,Average
+Rohit,Male,MCA,5,80,90,40,65,85,280,70.0,Average
+Rahul,Male,MCA,8,65,90,90,100,80,360,90.0,Good
+Neha,Female,MCA,4,75,90,80,100,40,310,77.5,Good
+Neha,Female,MCA,8,95,55,95,75,65,290,72.5,Average
+Rahul,Male,BSC CS,1,80,45,80,75,80,280,70.0,Average
+Aman,Male,MCA,4,75,75,95,75,85,330,82.5,Good
+Rahul,Female,BSC CS,5,75,45,60,100,60,265,66.25,Average
+Not Mentioned,Female,MCA,5,90,80,90,85,80,335,83.75,Good
+Sneha,Female,BSC CS,5,60,80,50,35,80,245,61.25,Average
+Arjun,Male,BSC CS,5,80,65,60,75,85,285,71.25,Average
+Neha,Female,MCA,7,85,90,70,85,95,340,85.0,Good
+Aman,Male,BSC CS,5,60,100,50,80,60,290,72.5,Average
+Rahul,Male,BSC CS,8,95,80,85,55,80,300,75.0,Average
+Aman,Male,BSC CS,5,70,80,90,75,80,325,81.25,Good
+Rahul,Male,BCA,4,55,55,50,100,90,295,73.75,Average
+Aman,Male,MCA,4,60,90,80,85,80,335,83.75,Good
+Priya,Male,BSC CS,5,80,65,80,55,80,280,70.0,Average
+Rohit,Male,BCA,5,95,95,100,75,85,355,88.75,Good
+Arjun,Female,BSC CS,8,60,95,90,70,40,295,73.75,Average
+Priya,Male,BCA,5,90,45,50,35,80,210,52.5,Average
+Priya,Male,MCA,7,85,45,40,75,80,240,60.0,Average
+Arjun,Female,MCA,4,90,80,70,75,80,305,76.25,Good
+Rohit,Female,BSC CS,8,80,80,50,90,65,285,71.25,Average
+Rahul,Female,BCA,1,70,55,95,95,100,345,86.25,Good
+Sneha,Male,BSC CS,8,95,80,75,35,80,270,67.5,Average
+Sneha,Male,MCA,5,80,80,90,80,50,300,75.0,Average
+Rahul,Female,MCA,5,100,100,80,80,85,345,86.25,Good
+Sneha,Female,MCA,5,90,75,40,75,50,240,60.0,Average
+Aman,Male,BSC CS,5,70,100,40,75,65,280,70.0,Average
+Sneha,Female,BCA,5,95,100,80,75,100,355,88.75,Good
+Neha,Male,MCA,3,65,80,90,75,65,310,77.5,Good
+Neha,Female,BSC CS,3,95,90,75,90,80,335,83.75,Good
+Arjun,Male,MCA,4,80,80,50,75,95,300,75.0,Average
+Sneha,Male,MCA,4,80,45,40,80,80,245,61.25,Average
+Neha,Male,MCA,6,80,80,90,95,70,335,83.75,Good
+Priya,Female,MCA,5,95,35,100,75,75,285,71.25,Average
+Rahul,Male,BSC CS,5,80,80,60,85,80,305,76.25,Good
+Not Mentioned,Female,MCA,4,65,70,60,45,75,250,62.5,Average
+Rahul,Female,MCA,8,90,95,100,85,50,330,82.5,Good
+Priya,Male,MCA,3,70,80,60,100,75,315,78.75,Good
+Aman,Male,MCA,8,85,100,50,65,80,295,73.75,Average
+Sneha,Female,BCA,6,100,95,90,90,60,335,83.75,Good
+Sneha,Male,BSC CS,5,80,95,60,35,80,270,67.5,Average
+Sneha,Male,BSC CS,5,70,35,75,55,80,245,61.25,Average
+Arjun,Female,BCA,5,80,45,40,75,50,210,52.5,Average
+Sneha,Male,MCA,5,95,55,75,75,70,275,68.75,Average
+Aman,Female,MCA,5,80,95,95,65,50,305,76.25,Good
+Rohit,Female,BCA,5,80,80,75,55,40,250,62.5,Average
+Not Mentioned,Male,BCA,3,80,80,80,75,90,325,81.25,Good
+Priya,Male,BSC CS,5,80,95,80,75,75,325,81.25,Good
+Aman,Male,BSC CS,5,85,45,60,75,100,280,70.0,Average
+Arjun,Male,BCA,3,80,85,60,100,75,320,80.0,Good
+Priya,Male,BSC CS,5,80,75,80,75,60,290,72.5,Average
+Rahul,Male,BCA,1,85,100,95,85,70,350,87.5,Good
+Priya,Male,BCA,5,60,55,50,75,50,230,57.5,Average
+Rahul,Female,MCA,5,70,85,40,55,70,250,62.5,Average
+Neha,Male,MCA,6,80,55,85,75,80,295,73.75,Average
+Priya,Male,BSC CS,7,90,45,70,45,65,225,56.25,Average
+Sneha,Female,MCA,1,70,55,50,75,80,260,65.0,Average
+Priya,Female,MCA,5,65,95,60,75,85,315,78.75,Good
+Aman,Female,BCA,5,100,80,90,100,100,370,92.5,Excellent
+Priya,Male,BCA,4,80,45,60,75,90,270,67.5,Average
+Arjun,Male,BSC CS,6,85,70,60,90,85,305,76.25,Good
+Not Mentioned,Male,BSC CS,5,55,90,80,80,100,350,87.5,Good
+Aman,Female,BSC CS,6,80,100,80,75,90,345,86.25,Good
+Sneha,Female,BCA,1,70,80,85,100,60,325,81.25,Good
+Rohit,Female,BSC CS,7,70,70,85,100,80,335,83.75,Good
+Rahul,Male,BCA,5,55,95,30,95,60,280,70.0,Average
+Rahul,Male,BSC CS,1,100,80,70,75,100,325,81.25,Good
+Not Mentioned,Male,BSC CS,2,80,80,90,100,85,355,88.75,Good
+Arjun,Female,MCA,2,75,45,100,75,80,300,75.0,Average
+Sneha,Male,BSC CS,5,75,80,80,65,100,325,81.25,Good
+Neha,Female,BCA,5,80,90,100,65,75,330,82.5,Good
+Aman,Male,BSC CS,5,80,80,80,35,85,280,70.0,Average
+Neha,Male,BCA,8,80,90,95,75,95,355,88.75,Good
+Arjun,Male,BCA,4,95,85,70,100,95,350,87.5,Good
+Priya,Male,BCA,5,80,45,60,95,80,280,70.0,Average
+Arjun,Female,MCA,1,70,45,40,95,40,220,55.0,Average
+Sneha,Male,BCA,1,80,80,80,75,85,320,80.0,Good
+Arjun,Male,MCA,5,55,100,95,75,80,350,87.5,Good
+Not Mentioned,Female,MCA,5,85,45,90,65,60,260,65.0,Average
+Not Mentioned,Male,BSC CS,5,90,95,95,45,85,320,80.0,Good
+Rohit,Female,BSC CS,5,65,100,80,65,75,320,80.0,Good
+Rahul,Female,BSC CS,8,80,35,95,100,65,295,73.75,Average
+Not Mentioned,Male,MCA,5,80,75,75,75,80,305,76.25,Good
+Not Mentioned,Female,BSC CS,4,100,80,90,80,100,350,87.5,Good
+Sneha,Male,BCA,7,100,90,50,45,75,260,65.0,Average
+Rahul,Female,BSC CS,5,80,35,50,85,80,250,62.5,Average
+Rahul,Male,BCA,5,90,80,80,75,65,300,75.0,Average
+Rahul,Male,MCA,6,80,75,95,45,50,265,66.25,Average
+Rahul,Female,MCA,5,80,95,50,75,60,280,70.0,Average
+Neha,Male,MCA,5,65,70,80,80,90,320,80.0,Good
+Neha,Male,BCA,1,80,65,90,100,40,295,73.75,Average
+Aman,Male,BCA,5,70,85,85,45,95,310,77.5,Good
+Priya,Male,BCA,4,85,90,80,100,65,335,83.75,Good
+Neha,Female,BCA,2,65,95,90,65,100,350,87.5,Good
+Arjun,Male,MCA,1,55,100,80,75,85,340,85.0,Good
+Rahul,Male,BCA,5,85,80,50,55,65,250,62.5,Average
+Rohit,Male,BSC CS,4,100,80,80,75,75,310,77.5,Good
+Sneha,Male,BSC CS,5,85,35,40,90,80,245,61.25,Average
+Sneha,Female,BCA,5,80,80,30,55,85,250,62.5,Average
+Not Mentioned,Female,BCA,8,90,100,30,70,65,265,66.25,Average
+Arjun,Male,BSC CS,1,75,90,80,45,60,275,68.75,Average
+Priya,Female,BCA,5,65,35,100,35,50,220,55.0,Average
+Not Mentioned,Male,BSC CS,7,60,70,70,55,80,275,68.75,Average
+Not Mentioned,Female,BSC CS,1,80,35,60,45,95,235,58.75,Average
+Sneha,Male,BCA,5,80,55,100,35,90,280,70.0,Average
+Aman,Female,BSC CS,6,85,95,40,70,60,265,66.25,Average
+Rohit,Female,BCA,4,55,45,80,55,80,260,65.0,Average
+Not Mentioned,Female,BSC CS,1,55,80,90,75,100,345,86.25,Good
+Sneha,Male,BCA,1,80,95,85,90,85,355,88.75,Good
+Not Mentioned,Female,BCA,5,90,80,90,75,75,320,80.0,Good
+Priya,Female,BCA,5,75,80,30,80,100,290,72.5,Average
+Arjun,Female,MCA,6,80,75,50,75,80,280,70.0,Average
+Neha,Male,BSC CS,8,75,95,90,35,85,305,76.25,Good
+Neha,Male,MCA,1,80,90,95,55,70,310,77.5,Good
+Rahul,Male,BCA,3,55,80,70,35,80,265,66.25,Average
+Rahul,Male,BSC CS,8,70,75,40,75,85,275,68.75,Average
+Not Mentioned,Male,BSC CS,8,80,95,50,95,50,290,72.5,Average
+Neha,Male,BCA,3,80,95,90,65,60,310,77.5,Good
+Arjun,Female,BCA,8,100,80,95,65,100,340,85.0,Good
+Arjun,Male,BSC CS,3,85,80,70,80,70,300,75.0,Average
+Sneha,Female,BSC CS,5,65,80,60,75,85,300,75.0,Average
+Priya,Female,MCA,5,90,85,60,70,70,285,71.25,Average
+Priya,Female,MCA,4,75,65,90,75,85,315,78.75,Good
+Priya,Female,BCA,8,80,80,80,95,85,340,85.0,Good
+Arjun,Male,BSC CS,4,80,65,30,70,100,265,66.25,Average
+Not Mentioned,Female,BSC CS,5,80,80,85,95,100,360,90.0,Good
+Sneha,Female,MCA,1,75,95,95,70,75,335,83.75,Good
+Priya,Male,MCA,4,80,70,30,75,75,250,62.5,Average
+Not Mentioned,Male,BSC CS,4,80,55,80,45,60,240,60.0,Average
+Not Mentioned,Male,MCA,4,80,95,95,95,50,335,83.75,Good
+Aman,Male,BSC CS,1,90,85,60,70,95,310,77.5,Good
+Aman,Male,BSC CS,5,80,35,85,80,85,285,71.25,Average
+Priya,Male,BCA,4,80,85,85,55,80,305,76.25,Good
+Aman,Male,BCA,7,90,55,75,75,40,245,61.25,Average
+Not Mentioned,Female,MCA,6,90,80,30,85,85,280,70.0,Average
+Aman,Male,BSC CS,7,80,80,70,75,100,325,81.25,Good
+Sneha,Female,MCA,6,90,55,80,75,80,290,72.5,Average
+Priya,Female,MCA,2,90,80,40,65,90,275,68.75,Average
+Neha,Male,BCA,2,95,90,95,75,60,320,80.0,Good
+Rohit,Female,BCA,2,90,75,40,70,80,265,66.25,Average
+Neha,Male,BCA,5,90,80,80,100,40,300,75.0,Average
+Arjun,Female,BSC CS,5,100,70,90,90,60,310,77.5,Good
+Rahul,Male,BCA,2,100,80,85,75,100,340,85.0,Good
+Sneha,Male,BSC CS,5,80,90,80,45,100,315,78.75,Good
+Aman,Female,MCA,5,100,80,80,75,75,310,77.5,Good
+Aman,Male,BCA,5,90,80,90,90,80,340,85.0,Good
+Aman,Male,BSC CS,5,80,70,40,75,40,225,56.25,Average
+Priya,Male,BCA,3,100,100,75,70,85,330,82.5,Good
+Rohit,Female,BSC CS,6,90,80,80,75,65,300,75.0,Average
+Aman,Male,BCA,5,55,80,60,85,80,305,76.25,Good
+Neha,Female,BCA,5,70,75,95,35,80,285,71.25,Average
+Neha,Male,BSC CS,8,80,95,80,75,70,320,80.0,Good
+Arjun,Male,MCA,1,85,80,90,85,95,350,87.5,Good
+Arjun,Male,MCA,4,90,80,90,100,85,355,88.75,Good
+Aman,Male,BCA,8,100,95,75,80,80,330,82.5,Good
+Priya,Male,BSC CS,2,90,65,60,45,95,265,66.25,Average
+Not Mentioned,Female,BSC CS,5,70,75,85,75,80,315,78.75,Good
+Priya,Male,MCA,5,90,70,100,45,60,275,68.75,Average
+Rahul,Male,BSC CS,5,90,55,90,90,85,320,80.0,Good
+Aman,Female,BSC CS,6,75,85,95,95,100,375,93.75,Excellent
+Rahul,Female,MCA,5,90,95,30,95,80,300,75.0,Average
+Sneha,Female,MCA,4,100,95,50,70,100,315,78.75,Good
+Sneha,Male,BCA,5,75,80,85,90,60,315,78.75,Good
+Priya,Female,BSC CS,8,100,100,90,75,50,315,78.75,Good
+Rohit,Female,BSC CS,5,80,75,80,70,85,310,77.5,Good
+Rohit,Female,MCA,5,90,75,50,70,70,265,66.25,Average
+Not Mentioned,Male,MCA,7,80,85,50,85,80,300,75.0,Average
+Not Mentioned,Male,BCA,5,90,80,70,75,80,305,76.25,Good
+Sneha,Male,MCA,7,90,80,70,95,85,330,82.5,Good
+Aman,Male,BCA,5,65,35,80,100,50,265,66.25,Average
+Rahul,Male,BCA,7,90,70,90,70,80,310,77.5,Good
+Arjun,Female,BSC CS,5,60,45,70,70,70,255,63.75,Average
+Rohit,Female,BSC CS,3,85,75,80,35,80,270,67.5,Average
+Sneha,Female,BCA,5,55,95,80,70,85,330,82.5,Good
+Neha,Female,BSC CS,5,90,90,80,75,85,330,82.5,Good
+Priya,Female,BSC CS,5,70,95,95,55,40,285,71.25,Average
+Arjun,Male,BCA,6,95,35,75,70,80,260,65.0,Average
+Arjun,Female,BCA,5,80,75,90,75,90,330,82.5,Good
+Priya,Male,BCA,5,80,65,30,90,60,245,61.25,Average
+Arjun,Female,BCA,4,80,80,90,75,80,325,81.25,Good
+Aman,Male,MCA,2,95,80,90,70,80,320,80.0,Good
+Neha,Female,BCA,5,80,80,100,85,75,340,85.0,Good
+Aman,Female,BSC CS,8,80,100,95,75,80,350,87.5,Good
+Arjun,Male,BSC CS,7,80,65,80,70,65,280,70.0,Average
+Sneha,Female,BCA,4,90,45,60,85,50,240,60.0,Average
+Sneha,Male,MCA,1,80,80,80,70,90,320,80.0,Good
+Not Mentioned,Male,BSC CS,5,80,100,30,45,90,265,66.25,Average
+Rohit,Male,MCA,5,75,80,90,45,85,300,75.0,Average
+Rahul,Female,BSC CS,5,80,65,100,75,100,340,85.0,Good
+Neha,Male,MCA,8,60,80,60,35,80,255,63.75,Average
+Aman,Female,BSC CS,5,80,80,50,75,40,245,61.25,Average
+Rohit,Male,BSC CS,5,55,90,90,45,50,275,68.75,Average
+Priya,Male,MCA,8,55,80,100,75,95,350,87.5,Good
+Priya,Male,MCA,5,65,100,80,75,85,340,85.0,Good
+Sneha,Male,BSC CS,7,80,85,80,75,50,290,72.5,Average
+Not Mentioned,Male,BSC CS,2,80,80,80,45,100,305,76.25,Good
+Neha,Female,BCA,8,65,80,30,75,80,265,66.25,Average
+Priya,Male,BCA,1,70,95,85,75,95,350,87.5,Good
+Priya,Female,BSC CS,7,80,80,80,75,95,330,82.5,Good
+Neha,Male,BSC CS,4,100,85,80,85,75,325,81.25,Good
+Not Mentioned,Male,MCA,5,80,55,80,70,80,285,71.25,Average
+Priya,Female,BCA,5,60,90,30,85,65,270,67.5,Average
+Priya,Female,BSC CS,1,80,55,90,55,95,295,73.75,Average
+Rohit,Female,BSC CS,5,90,80,50,95,50,275,68.75,Average
+Rohit,Female,MCA,4,90,85,90,75,95,345,86.25,Good
+Sneha,Female,MCA,5,80,75,85,65,95,320,80.0,Good
+Not Mentioned,Male,MCA,5,80,85,70,85,90,330,82.5,Good
+Priya,Male,BCA,5,65,80,40,70,95,285,71.25,Average
+Not Mentioned,Female,MCA,5,75,45,40,75,90,250,62.5,Average
+Sneha,Female,BSC CS,8,55,65,50,35,85,235,58.75,Average
+Aman,Male,BCA,6,80,55,70,35,70,230,57.5,Average
+Aman,Female,BCA,5,80,35,80,55,80,250,62.5,Average
+Sneha,Male,BCA,5,100,80,50,55,65,250,62.5,Average
+Neha,Female,BCA,5,55,85,50,85,70,290,72.5,Average
+Arjun,Male,BCA,8,100,80,75,75,60,290,72.5,Average
+Rahul,Male,MCA,7,80,90,90,70,50,300,75.0,Average
+Aman,Male,BCA,4,100,80,85,75,85,325,81.25,Good
+Rahul,Female,BSC CS,2,55,100,50,75,80,305,76.25,Good
+Rahul,Male,BSC CS,4,80,70,80,75,85,310,77.5,Good
+Neha,Female,BSC CS,4,80,70,90,75,80,315,78.75,Good
+Rahul,Male,BCA,4,70,95,80,100,50,325,81.25,Good
+Neha,Female,MCA,5,80,55,75,75,50,255,63.75,Average
+Rohit,Female,BCA,5,90,55,40,75,65,235,58.75,Average
+Arjun,Female,BCA,5,80,55,80,100,85,320,80.0,Good
+Aman,Female,BSC CS,5,100,80,60,75,95,310,77.5,Good
+Rahul,Female,BSC CS,7,85,80,90,45,85,300,75.0,Average
+Rohit,Female,BSC CS,7,100,85,95,90,70,340,85.0,Good
+Rohit,Male,BSC CS,5,55,80,60,75,100,315,78.75,Good
+Not Mentioned,Female,MCA,8,55,35,100,80,75,290,72.5,Average
+Sneha,Male,BCA,1,65,75,85,65,100,325,81.25,Good
+Rahul,Male,BSC CS,1,80,80,70,35,65,250,62.5,Average
+Priya,Female,MCA,6,80,80,90,75,70,315,78.75,Good
+Sneha,Female,MCA,5,95,70,60,100,80,310,77.5,Good
+Rohit,Male,MCA,7,80,45,85,55,85,270,67.5,Average
+Aman,Male,BCA,5,70,70,80,45,40,235,58.75,Average
+Aman,Male,BSC CS,4,80,80,90,55,75,300,75.0,Average
+Neha,Female,BSC CS,4,55,80,70,90,50,290,72.5,Average
+Rohit,Female,BCA,3,100,100,100,100,80,380,95.0,Excellent
+Priya,Male,MCA,5,60,100,90,65,100,355,88.75,Good
+Rahul,Female,BCA,5,85,45,90,75,95,305,76.25,Good
+Arjun,Female,BCA,6,90,90,85,100,50,325,81.25,Good
+Rohit,Female,BSC CS,7,75,65,90,75,70,300,75.0,Average
+Aman,Female,MCA,4,95,95,80,75,40,290,72.5,Average
+Neha,Male,MCA,5,80,55,80,100,50,285,71.25,Average
+Rahul,Female,MCA,2,80,80,70,85,80,315,78.75,Good
+Aman,Male,MCA,2,85,95,90,35,90,310,77.5,Good
+Aman,Male,BSC CS,2,80,70,80,65,80,295,73.75,Average
+Rohit,Female,MCA,8,85,70,50,95,75,290,72.5,Average
+Rahul,Female,MCA,3,95,70,90,55,60,275,68.75,Average
+Rahul,Female,MCA,5,90,65,50,75,75,265,66.25,Average
+Sneha,Male,BSC CS,6,100,80,60,75,85,300,75.0,Average
+Rohit,Male,MCA,5,85,70,100,75,90,335,83.75,Good
+Aman,Female,BSC CS,5,55,65,90,35,70,260,65.0,Average
+Rohit,Female,BCA,5,55,80,80,95,80,335,83.75,Good
+Not Mentioned,Female,MCA,8,65,100,50,75,50,275,68.75,Average
+Rohit,Female,MCA,7,65,70,70,45,80,265,66.25,Average
+Aman,Male,BSC CS,3,80,85,80,45,85,295,73.75,Average
+Sneha,Female,BCA,8,80,80,90,100,70,340,85.0,Good
+Not Mentioned,Female,BCA,8,95,85,100,75,85,345,86.25,Good
+Sneha,Female,BSC CS,5,90,55,70,75,80,280,70.0,Average
+Sneha,Female,BCA,5,85,75,90,85,40,290,72.5,Average
+Aman,Female,BSC CS,2,80,80,90,55,70,295,73.75,Average
+Aman,Male,BSC CS,3,85,95,60,85,100,340,85.0,Good
+Priya,Female,BSC CS,3,75,80,30,95,95,300,75.0,Average
+Rahul,Female,BCA,7,85,75,70,100,40,285,71.25,Average
+Priya,Female,MCA,5,75,80,85,75,85,325,81.25,Good
+Aman,Male,MCA,1,70,80,80,75,85,320,80.0,Good
+Rahul,Female,BCA,6,70,35,75,85,85,280,70.0,Average
+Not Mentioned,Female,BCA,1,55,85,30,75,80,270,67.5,Average
+Rahul,Male,BCA,4,75,75,95,75,80,325,81.25,Good
+Arjun,Male,MCA,6,90,75,90,35,100,300,75.0,Average
+Neha,Male,BSC CS,5,70,95,30,90,95,310,77.5,Good
+Rohit,Male,BSC CS,6,75,80,90,75,65,310,77.5,Good
+Not Mentioned,Female,BCA,3,85,95,80,65,60,300,75.0,Average
+Priya,Female,MCA,5,95,100,100,75,75,350,87.5,Good
+Not Mentioned,Female,BCA,5,65,45,80,100,40,265,66.25,Average
+Arjun,Female,MCA,5,90,100,80,75,50,305,76.25,Good
+Aman,Male,BCA,5,90,90,40,75,80,285,71.25,Average
+Neha,Female,MCA,4,85,85,90,85,40,300,75.0,Average
+Priya,Female,MCA,5,80,45,60,85,50,240,60.0,Average
+Arjun,Female,BCA,3,80,65,100,85,40,290,72.5,Average
+Rohit,Male,BSC CS,1,65,70,85,100,85,340,85.0,Good
+Neha,Male,MCA,5,70,80,50,65,65,260,65.0,Average
+Rohit,Female,MCA,3,80,90,30,80,80,280,70.0,Average
+Not Mentioned,Male,MCA,8,80,95,70,35,40,240,60.0,Average
+Rahul,Female,BSC CS,1,80,80,70,45,65,260,65.0,Average
+Neha,Female,MCA,8,90,80,80,80,80,320,80.0,Good
+Not Mentioned,Male,BSC CS,4,80,45,80,100,40,265,66.25,Average
+Not Mentioned,Male,BSC CS,2,95,75,95,80,100,350,87.5,Good
+Not Mentioned,Male,BSC CS,4,80,80,70,55,75,280,70.0,Average
+Neha,Male,MCA,1,80,75,30,80,100,285,71.25,Average
+Arjun,Female,MCA,6,100,70,80,85,85,320,80.0,Good
+Arjun,Female,BCA,5,80,80,80,75,90,325,81.25,Good
+Arjun,Female,MCA,6,80,45,100,85,60,290,72.5,Average
+Sneha,Female,BCA,3,90,80,40,90,75,285,71.25,Average
+Aman,Female,BSC CS,5,90,35,40,90,80,245,61.25,Average
+Neha,Male,BCA,7,80,65,100,65,50,280,70.0,Average
+Priya,Male,BSC CS,5,80,65,90,75,85,315,78.75,Good
+Sneha,Female,BCA,8,65,80,80,70,50,280,70.0,Average
+Not Mentioned,Female,BCA,4,80,95,75,70,100,340,85.0,Good
+Rahul,Female,MCA,6,95,90,100,95,95,380,95.0,Excellent
+Not Mentioned,Male,BSC CS,5,100,85,70,80,80,315,78.75,Good
+Neha,Female,MCA,2,85,70,50,100,85,305,76.25,Good
+Priya,Male,BCA,8,80,90,90,65,85,330,82.5,Good
+Rahul,Female,BCA,4,55,80,80,75,70,305,76.25,Good
+Arjun,Female,MCA,5,70,95,90,75,100,360,90.0,Good
+Arjun,Female,BSC CS,1,80,80,40,70,50,240,60.0,Average
+Sneha,Female,MCA,4,60,85,85,80,80,330,82.5,Good
+Arjun,Female,BCA,5,65,85,80,100,75,340,85.0,Good
+Not Mentioned,Female,BSC CS,5,60,80,80,55,85,300,75.0,Average
+Rohit,Female,MCA,5,90,80,90,70,80,320,80.0,Good
+Sneha,Male,BSC CS,6,80,45,80,75,100,300,75.0,Average
+Priya,Female,BCA,1,80,45,40,35,95,215,53.75,Average
+Neha,Male,BCA,5,95,80,85,90,80,335,83.75,Good
+Priya,Male,BSC CS,7,90,45,90,55,80,270,67.5,Average
+Aman,Male,BCA,4,80,80,95,35,70,280,70.0,Average
+Arjun,Male,BSC CS,5,80,80,40,75,80,275,68.75,Average
+Not Mentioned,Female,BCA,3,65,35,90,100,65,290,72.5,Average
+Rohit,Male,BCA,5,80,80,95,45,85,305,76.25,Good
+Priya,Female,MCA,1,95,80,75,80,85,320,80.0,Good
+Neha,Female,MCA,3,90,35,100,95,40,270,67.5,Average
+Rahul,Male,BSC CS,5,80,45,85,85,50,265,66.25,Average
+Sneha,Female,BCA,4,90,55,80,35,95,265,66.25,Average
+Arjun,Male,BSC CS,5,80,95,50,85,90,320,80.0,Good
+Neha,Female,BCA,4,60,65,80,65,90,300,75.0,Average
+Arjun,Male,BSC CS,7,80,85,80,75,70,310,77.5,Good
+Aman,Male,BCA,5,80,80,95,85,50,310,77.5,Good
+Neha,Female,BCA,6,55,80,100,100,80,360,90.0,Good
+Not Mentioned,Male,BCA,2,85,80,95,80,60,315,78.75,Good
+Sneha,Male,BCA,4,65,35,85,80,80,280,70.0,Average
+Rahul,Male,BSC CS,1,80,80,75,100,50,305,76.25,Good
+Rahul,Female,MCA,7,60,90,85,70,90,335,83.75,Good
+Sneha,Female,BCA,6,90,80,80,70,85,315,78.75,Good
+Aman,Male,MCA,8,90,100,30,75,40,245,61.25,Average
+Arjun,Male,BCA,4,95,45,75,75,100,295,73.75,Average
+Priya,Female,MCA,4,60,35,90,85,75,285,71.25,Average
+Rahul,Female,BCA,8,90,80,90,75,75,320,80.0,Good
+Not Mentioned,Female,MCA,5,80,75,80,95,40,290,72.5,Average
+Priya,Male,BSC CS,4,80,80,80,35,80,275,68.75,Average
+Sneha,Male,MCA,5,100,85,50,100,95,330,82.5,Good
+Aman,Male,BSC CS,7,80,35,80,85,80,280,70.0,Average
+Sneha,Male,BSC CS,4,95,35,95,100,40,270,67.5,Average
+Rahul,Male,MCA,1,80,100,85,85,75,345,86.25,Good
+Aman,Female,MCA,8,80,65,100,35,95,295,73.75,Average
+Aman,Female,BCA,5,80,80,80,75,40,275,68.75,Average
+Rahul,Female,BCA,5,90,65,60,90,95,310,77.5,Good
+Not Mentioned,Male,MCA,8,90,35,95,100,100,330,82.5,Good
+Rahul,Female,BSC CS,7,55,95,80,75,75,325,81.25,Good
+Priya,Female,BCA,1,65,75,60,85,75,295,73.75,Average
+Rohit,Female,BCA,4,85,95,70,95,65,325,81.25,Good
+Arjun,Male,BSC CS,5,100,80,90,75,50,295,73.75,Average
+Sneha,Female,BCA,5,80,100,80,45,80,305,76.25,Good
+Aman,Female,BSC CS,8,85,90,40,80,85,295,73.75,Average
+Priya,Male,BSC CS,5,80,100,80,55,60,295,73.75,Average
+Sneha,Male,MCA,5,85,80,80,35,40,235,58.75,Average
+Aman,Male,BCA,5,80,85,100,55,85,325,81.25,Good
+Arjun,Female,BCA,5,55,55,80,80,85,300,75.0,Average
+Not Mentioned,Male,BCA,1,80,35,95,95,80,305,76.25,Good
+Priya,Female,BCA,8,90,35,80,85,95,295,73.75,Average
+Aman,Male,MCA,7,75,65,60,90,85,300,75.0,Average
+Rohit,Female,MCA,6,80,85,80,75,85,325,81.25,Good
+Not Mentioned,Female,MCA,3,70,55,75,45,85,260,65.0,Average
+Arjun,Male,BSC CS,2,60,80,60,85,50,275,68.75,Average
+Rohit,Female,BSC CS,3,75,80,100,45,65,290,72.5,Average
+Rohit,Male,MCA,2,90,80,30,65,50,225,56.25,Average
+Aman,Female,MCA,5,100,65,100,75,65,305,76.25,Good
+Aman,Female,BSC CS,7,60,45,50,75,90,260,65.0,Average
+Rahul,Male,BCA,4,80,80,70,70,85,305,76.25,Good
+Neha,Male,BSC CS,8,90,85,40,80,75,280,70.0,Average
+Rohit,Female,BCA,2,80,80,85,75,60,300,75.0,Average
+Sneha,Female,BSC CS,5,80,80,40,75,60,255,63.75,Average
+Rohit,Female,MCA,4,80,80,70,85,85,320,80.0,Good
+Arjun,Male,MCA,4,80,80,75,35,75,265,66.25,Average

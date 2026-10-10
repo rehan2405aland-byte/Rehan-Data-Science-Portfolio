@@ -1,0 +1,489 @@
+Date,Customer_Name,City,Category,Product,Quantity,Price,Discount,Total_Sales
+2026-04-13,Anaya,Not Mentioned,Clothing,Unknown,5,1200,0.0,6000.0
+2026-02-21,Kabir,Nashik,Clothing,Keyboard,3,400,0.05,1140.0
+2026-04-03,Ayaan,Pune,Stationery,Keyboard,2,500,0.0,1000.0
+2026-01-15,Not Mentioned,Pune,Stationery,Shirt,2,400,0.2,640.0
+2026-04-17,Rehan,Kolhapur,Unknown,Laptop,1,400,0.0,400.0
+2026-03-13,Kabir,Kolhapur,Unknown,Bottle,2,150,0.15,255.0
+2026-03-02,Anaya,Not Mentioned,Grocery,Headphones,3,250,0.2,600.0
+2026-01-21,Kabir,Mumbai,Grocery,Laptop,3,100,0.0,300.0
+2026-04-13,Rehan,Nashik,Electronics,Headphones,2,800,0.0,1600.0
+2026-03-24,Rohan,Nashik,Unknown,Laptop,5,800,0.0,4000.0
+2026-03-28,Rohan,Not Mentioned,Clothing,Laptop,3,100,0.15,255.0
+2026-03-16,Kabir,Nagpur,Unknown,Unknown,3,250,0.1,675.0
+2026-03-16,Sara,Mumbai,Clothing,Laptop,3,500,0.0,1500.0
+2026-03-29,Not Mentioned,Not Mentioned,Stationery,Shirt,1,250,0.05,237.5
+2026-04-27,Not Mentioned,Mumbai,Unknown,Keyboard,3,250,0.1,675.0
+2026-04-10,Kabir,Mumbai,Stationery,Mouse,3,250,0.0,750.0
+2026-04-14,Ayaan,Mumbai,Grocery,Headphones,1,500,0.0,500.0
+2026-01-24,Ayaan,Not Mentioned,Grocery,Keyboard,3,500,0.25,1125.0
+2026-01-03,Not Mentioned,Nashik,Electronics,Mouse,5,400,0.2,1600.0
+2026-01-22,Not Mentioned,Nashik,Unknown,Headphones,1,100,0.0,100.0
+2026-02-22,Rohan,Mumbai,Stationery,Headphones,4,500,0.05,1900.0
+2026-01-02,Sara,Nagpur,Clothing,Mouse,3,500,0.15,1275.0
+2026-03-29,Rehan,Pune,Grocery,Laptop,3,400,0.0,1200.0
+2026-04-18,Ayaan,Not Mentioned,Grocery,Bottle,3,800,0.25,1800.0
+2026-01-30,Not Mentioned,Pune,Clothing,Rice,3,400,0.0,1200.0
+2026-02-07,Rohan,Nagpur,Stationery,Keyboard,3,1200,0.15,3060.0
+2026-01-02,Anaya,Not Mentioned,Stationery,Unknown,3,1200,0.0,3600.0
+2026-03-05,Rohan,Mumbai,Unknown,Keyboard,4,150,0.05,570.0
+2026-03-01,Ayaan,Nashik,Unknown,Unknown,1,250,0.2,200.0
+2026-01-21,Ayaan,Pune,Electronics,Mouse,4,100,0.0,400.0
+2026-03-17,Rehan,Kolhapur,Unknown,Headphones,3,400,0.1,1080.0
+2026-02-27,Kabir,Nagpur,Stationery,Bottle,3,400,0.15,1020.0
+2026-01-22,Ayaan,Mumbai,Clothing,Bottle,1,800,0.0,800.0
+2026-04-18,Rohan,Pune,Stationery,Headphones,5,400,0.25,1500.0
+2026-03-30,Not Mentioned,Mumbai,Grocery,Shirt,3,800,0.0,2400.0
+2026-04-01,Sara,Nagpur,Electronics,Shirt,4,400,0.05,1520.0
+2026-02-28,Kabir,Nagpur,Grocery,Shirt,5,400,0.25,1500.0
+2026-02-11,Anaya,Kolhapur,Clothing,Keyboard,4,400,0.2,1280.0
+2026-04-02,Rehan,Mumbai,Electronics,Keyboard,4,400,0.0,1600.0
+2026-03-01,Anaya,Not Mentioned,Grocery,Rice,4,500,0.2,1600.0
+2026-03-21,Kabir,Kolhapur,Clothing,Unknown,3,400,0.0,1200.0
+2026-01-15,Kabir,Mumbai,Electronics,Headphones,3,800,0.2,1920.0
+2026-03-03,Kabir,Kolhapur,Electronics,Keyboard,2,1200,0.0,2400.0
+2026-03-03,Anaya,Not Mentioned,Grocery,Mouse,3,250,0.2,600.0
+2026-02-16,Not Mentioned,Nashik,Unknown,Unknown,5,1200,0.1,5400.0
+2026-03-03,Kabir,Nashik,Electronics,Rice,4,400,0.0,1600.0
+2026-02-20,Rohan,Nashik,Electronics,Rice,3,800,0.25,1800.0
+2026-04-18,Anaya,Nashik,Clothing,Mouse,3,400,0.15,1020.0
+2026-02-24,Kabir,Pune,Stationery,Shirt,3,800,0.05,2280.0
+2026-04-26,Rohan,Nashik,Grocery,Bottle,5,400,0.0,2000.0
+2026-03-05,Not Mentioned,Not Mentioned,Grocery,Mouse,3,400,0.0,1200.0
+2026-01-03,Sara,Nagpur,Unknown,Notebook,3,400,0.15,1020.0
+2026-04-11,Not Mentioned,Nagpur,Unknown,Mouse,3,400,0.0,1200.0
+2026-01-07,Anaya,Nashik,Unknown,Headphones,3,400,0.15,1020.0
+2026-01-21,Ayaan,Nashik,Clothing,Keyboard,3,500,0.2,1200.0
+2026-03-14,Kabir,Nashik,Grocery,Headphones,3,400,0.2,960.0
+2026-02-08,Ayaan,Kolhapur,Unknown,Rice,5,150,0.0,750.0
+2026-01-18,Rohan,Mumbai,Grocery,Keyboard,5,100,0.0,500.0
+2026-01-04,Sara,Kolhapur,Stationery,Notebook,3,1200,0.05,3420.0
+2026-03-30,Rehan,Mumbai,Electronics,Bottle,5,800,0.25,3000.0
+2026-03-01,Not Mentioned,Nashik,Grocery,Unknown,3,150,0.2,360.0
+2026-01-14,Sara,Nashik,Electronics,Rice,3,400,0.0,1200.0
+2026-04-24,Kabir,Kolhapur,Unknown,Rice,2,400,0.1,720.0
+2026-01-09,Ayaan,Kolhapur,Electronics,Rice,3,400,0.1,1080.0
+2026-03-31,Not Mentioned,Mumbai,Grocery,Keyboard,3,1200,0.0,3600.0
+2026-02-22,Ayaan,Nagpur,Stationery,Laptop,5,500,0.05,2375.0
+2026-01-02,Anaya,Mumbai,Unknown,Mouse,3,400,0.1,1080.0
+2026-03-25,Ayaan,Kolhapur,Grocery,Laptop,3,400,0.0,1200.0
+2026-04-02,Anaya,Not Mentioned,Unknown,Notebook,3,500,0.0,1500.0
+2026-04-21,Rohan,Kolhapur,Clothing,Bottle,5,500,0.2,2000.0
+2026-03-01,Not Mentioned,Not Mentioned,Electronics,Shirt,2,150,0.2,240.0
+2026-03-12,Not Mentioned,Pune,Clothing,Notebook,3,500,0.0,1500.0
+2026-02-13,Rehan,Kolhapur,Grocery,Shirt,2,250,0.15,425.0
+2026-02-16,Anaya,Nagpur,Unknown,Bottle,3,500,0.0,1500.0
+2026-02-04,Rehan,Mumbai,Electronics,Headphones,5,400,0.0,2000.0
+2026-03-19,Ayaan,Not Mentioned,Unknown,Laptop,1,100,0.1,90.0
+2026-03-22,Ayaan,Mumbai,Grocery,Rice,5,250,0.05,1187.5
+2026-02-05,Rehan,Pune,Unknown,Unknown,5,250,0.15,1062.5
+2026-02-19,Not Mentioned,Not Mentioned,Electronics,Shirt,2,400,0.1,720.0
+2026-04-14,Ayaan,Mumbai,Grocery,Notebook,2,500,0.0,1000.0
+2026-01-04,Rohan,Kolhapur,Unknown,Headphones,5,400,0.1,1800.0
+2026-01-02,Rohan,Nashik,Stationery,Shirt,5,400,0.05,1900.0
+2026-01-06,Rehan,Pune,Grocery,Headphones,5,100,0.0,500.0
+2026-02-23,Anaya,Mumbai,Grocery,Headphones,2,150,0.25,225.0
+2026-04-16,Anaya,Pune,Stationery,Shirt,5,500,0.0,2500.0
+2026-01-04,Rehan,Pune,Clothing,Keyboard,5,400,0.0,2000.0
+2026-02-23,Anaya,Not Mentioned,Electronics,Mouse,3,400,0.0,1200.0
+2026-04-03,Not Mentioned,Not Mentioned,Clothing,Rice,4,1200,0.1,4320.0
+2026-03-04,Not Mentioned,Nashik,Unknown,Rice,1,800,0.2,640.0
+2026-01-18,Anaya,Kolhapur,Stationery,Keyboard,3,1200,0.0,3600.0
+2026-03-31,Rohan,Pune,Clothing,Rice,1,100,0.2,80.0
+2026-02-13,Anaya,Mumbai,Grocery,Headphones,4,100,0.0,400.0
+2026-02-03,Not Mentioned,Nagpur,Unknown,Bottle,3,400,0.2,960.0
+2026-03-15,Sara,Pune,Unknown,Notebook,3,150,0.0,450.0
+2026-03-03,Kabir,Pune,Clothing,Laptop,5,400,0.2,1600.0
+2026-04-10,Ayaan,Nashik,Clothing,Rice,4,1200,0.15,4080.0
+2026-01-14,Sara,Kolhapur,Stationery,Bottle,3,800,0.25,1800.0
+2026-04-05,Anaya,Nagpur,Electronics,Shirt,3,100,0.1,270.0
+2026-02-17,Rohan,Not Mentioned,Clothing,Mouse,5,100,0.2,400.0
+2026-01-15,Rehan,Not Mentioned,Clothing,Headphones,2,150,0.05,285.0
+2026-03-13,Anaya,Mumbai,Grocery,Mouse,3,800,0.25,1800.0
+2026-03-19,Rohan,Nagpur,Unknown,Notebook,4,800,0.25,2400.0
+2026-03-28,Kabir,Not Mentioned,Electronics,Notebook,2,150,0.2,240.0
+2026-03-03,Anaya,Mumbai,Grocery,Keyboard,4,100,0.25,300.0
+2026-02-09,Not Mentioned,Kolhapur,Stationery,Unknown,3,500,0.0,1500.0
+2026-03-26,Rehan,Mumbai,Stationery,Keyboard,4,500,0.2,1600.0
+2026-03-21,Rohan,Not Mentioned,Clothing,Bottle,2,150,0.0,300.0
+2026-04-19,Rohan,Nashik,Clothing,Mouse,3,800,0.0,2400.0
+2026-03-23,Rohan,Nashik,Stationery,Unknown,3,400,0.15,1020.0
+2026-04-21,Kabir,Nashik,Clothing,Shirt,1,150,0.0,150.0
+2026-02-22,Anaya,Not Mentioned,Electronics,Headphones,5,150,0.0,750.0
+2026-01-24,Kabir,Nashik,Clothing,Mouse,4,250,0.25,750.0
+2026-01-26,Ayaan,Nagpur,Unknown,Keyboard,5,1200,0.0,6000.0
+2026-03-30,Ayaan,Kolhapur,Clothing,Laptop,3,800,0.1,2160.0
+2026-03-01,Anaya,Mumbai,Grocery,Unknown,2,400,0.1,720.0
+2026-04-19,Not Mentioned,Mumbai,Electronics,Unknown,5,400,0.0,2000.0
+2026-02-10,Kabir,Not Mentioned,Grocery,Headphones,2,800,0.15,1360.0
+2026-01-15,Rohan,Nashik,Unknown,Notebook,1,250,0.0,250.0
+2026-02-14,Rohan,Pune,Electronics,Notebook,1,100,0.0,100.0
+2026-03-06,Anaya,Kolhapur,Electronics,Laptop,3,1200,0.15,3060.0
+2026-03-30,Not Mentioned,Nagpur,Electronics,Bottle,1,500,0.25,375.0
+2026-03-12,Ayaan,Mumbai,Electronics,Bottle,3,400,0.0,1200.0
+2026-01-09,Ayaan,Pune,Electronics,Shirt,1,400,0.0,400.0
+2026-03-29,Rohan,Pune,Unknown,Mouse,1,400,0.0,400.0
+2026-01-01,Anaya,Not Mentioned,Clothing,Rice,1,800,0.0,800.0
+2026-04-18,Kabir,Mumbai,Grocery,Keyboard,2,400,0.1,720.0
+2026-01-08,Ayaan,Not Mentioned,Electronics,Unknown,4,400,0.05,1520.0
+2026-03-29,Kabir,Nagpur,Clothing,Laptop,3,500,0.0,1500.0
+2026-03-04,Not Mentioned,Pune,Clothing,Notebook,5,800,0.1,3600.0
+2026-01-11,Ayaan,Pune,Grocery,Shirt,1,400,0.2,320.0
+2026-04-25,Ayaan,Kolhapur,Unknown,Bottle,2,400,0.05,760.0
+2026-03-22,Sara,Nagpur,Stationery,Laptop,2,400,0.1,720.0
+2026-01-08,Ayaan,Pune,Stationery,Unknown,2,100,0.15,170.0
+2026-02-04,Rehan,Nagpur,Clothing,Keyboard,3,150,0.0,450.0
+2026-02-04,Anaya,Mumbai,Grocery,Shirt,4,400,0.1,1440.0
+2026-02-02,Anaya,Nashik,Stationery,Unknown,3,400,0.0,1200.0
+2026-01-05,Kabir,Pune,Clothing,Notebook,5,250,0.0,1250.0
+2026-04-16,Not Mentioned,Kolhapur,Unknown,Notebook,4,400,0.15,1360.0
+2026-04-13,Ayaan,Mumbai,Stationery,Notebook,3,100,0.0,300.0
+2026-02-10,Rehan,Nagpur,Clothing,Laptop,3,400,0.0,1200.0
+2026-01-28,Kabir,Not Mentioned,Clothing,Laptop,2,250,0.0,500.0
+2026-01-07,Sara,Mumbai,Electronics,Bottle,3,800,0.0,2400.0
+2026-03-14,Kabir,Pune,Unknown,Bottle,3,1200,0.0,3600.0
+2026-03-13,Kabir,Nagpur,Electronics,Keyboard,3,400,0.1,1080.0
+2026-01-12,Ayaan,Nashik,Grocery,Shirt,3,1200,0.25,2700.0
+2026-02-03,Sara,Mumbai,Electronics,Headphones,1,400,0.1,360.0
+2026-02-02,Kabir,Pune,Electronics,Headphones,3,150,0.2,360.0
+2026-02-17,Rehan,Kolhapur,Stationery,Unknown,1,250,0.0,250.0
+2026-04-29,Rehan,Not Mentioned,Clothing,Notebook,4,500,0.05,1900.0
+2026-01-23,Anaya,Nagpur,Unknown,Shirt,3,250,0.25,562.5
+2026-03-03,Sara,Mumbai,Electronics,Laptop,3,400,0.25,900.0
+2026-03-29,Sara,Mumbai,Unknown,Mouse,5,400,0.1,1800.0
+2026-02-06,Anaya,Nashik,Electronics,Rice,3,400,0.25,900.0
+2026-04-09,Kabir,Nashik,Grocery,Keyboard,5,400,0.0,2000.0
+2026-02-13,Sara,Kolhapur,Electronics,Notebook,3,400,0.0,1200.0
+2026-04-14,Rehan,Not Mentioned,Stationery,Notebook,4,500,0.2,1600.0
+2026-03-27,Rehan,Kolhapur,Clothing,Notebook,1,500,0.05,475.0
+2026-04-01,Ayaan,Pune,Grocery,Laptop,3,400,0.0,1200.0
+2026-02-04,Sara,Pune,Electronics,Laptop,5,1200,0.0,6000.0
+2026-03-06,Kabir,Kolhapur,Unknown,Rice,3,400,0.1,1080.0
+2026-04-09,Anaya,Not Mentioned,Grocery,Shirt,5,400,0.0,2000.0
+2026-04-11,Anaya,Kolhapur,Grocery,Notebook,3,150,0.0,450.0
+2026-02-16,Kabir,Not Mentioned,Electronics,Headphones,1,400,0.1,360.0
+2026-03-19,Not Mentioned,Not Mentioned,Grocery,Bottle,3,800,0.1,2160.0
+2026-01-03,Rohan,Nagpur,Unknown,Headphones,3,150,0.05,427.5
+2026-01-01,Ayaan,Not Mentioned,Grocery,Unknown,1,1200,0.0,1200.0
+2026-01-05,Anaya,Nashik,Unknown,Headphones,5,250,0.0,1250.0
+2026-03-31,Sara,Not Mentioned,Electronics,Unknown,3,250,0.0,750.0
+2026-04-29,Ayaan,Not Mentioned,Clothing,Mouse,3,150,0.0,450.0
+2026-01-14,Sara,Not Mentioned,Grocery,Bottle,3,400,0.0,1200.0
+2026-04-13,Not Mentioned,Pune,Clothing,Headphones,3,800,0.0,2400.0
+2026-01-27,Rehan,Nashik,Unknown,Mouse,1,100,0.1,90.0
+2026-01-09,Ayaan,Nashik,Grocery,Keyboard,5,100,0.0,500.0
+2026-03-20,Anaya,Kolhapur,Stationery,Shirt,4,1200,0.15,4080.0
+2026-03-31,Ayaan,Not Mentioned,Grocery,Shirt,3,500,0.2,1200.0
+2026-02-11,Ayaan,Mumbai,Clothing,Headphones,2,500,0.0,1000.0
+2026-03-18,Rohan,Nagpur,Grocery,Mouse,3,400,0.2,960.0
+2026-02-20,Ayaan,Nagpur,Electronics,Bottle,3,800,0.0,2400.0
+2026-03-04,Sara,Nashik,Clothing,Headphones,4,800,0.0,3200.0
+2026-04-06,Rehan,Nagpur,Stationery,Notebook,3,250,0.2,600.0
+2026-04-13,Not Mentioned,Not Mentioned,Stationery,Laptop,4,400,0.0,1600.0
+2026-04-23,Kabir,Not Mentioned,Unknown,Mouse,3,1200,0.0,3600.0
+2026-02-21,Ayaan,Pune,Grocery,Bottle,3,100,0.15,255.0
+2026-04-06,Anaya,Not Mentioned,Clothing,Keyboard,3,1200,0.1,3240.0
+2026-01-04,Ayaan,Not Mentioned,Unknown,Notebook,3,500,0.05,1425.0
+2026-04-04,Anaya,Nashik,Clothing,Keyboard,4,500,0.0,2000.0
+2026-04-11,Sara,Not Mentioned,Grocery,Headphones,3,150,0.0,450.0
+2026-01-23,Anaya,Pune,Stationery,Laptop,3,400,0.0,1200.0
+2026-04-13,Kabir,Mumbai,Electronics,Mouse,2,800,0.05,1520.0
+2026-04-19,Rehan,Nashik,Stationery,Mouse,5,1200,0.15,5100.0
+2026-01-15,Anaya,Mumbai,Unknown,Headphones,5,500,0.25,1875.0
+2026-02-12,Anaya,Nashik,Electronics,Headphones,3,400,0.1,1080.0
+2026-01-29,Rehan,Kolhapur,Unknown,Laptop,3,250,0.0,750.0
+2026-02-05,Kabir,Nagpur,Grocery,Bottle,3,100,0.1,270.0
+2026-01-13,Ayaan,Kolhapur,Electronics,Bottle,3,400,0.05,1140.0
+2026-02-01,Anaya,Not Mentioned,Unknown,Laptop,3,400,0.1,1080.0
+2026-03-12,Rehan,Mumbai,Grocery,Bottle,2,400,0.25,600.0
+2026-02-28,Sara,Not Mentioned,Stationery,Unknown,3,150,0.05,427.5
+2026-04-25,Rehan,Nagpur,Grocery,Shirt,3,500,0.0,1500.0
+2026-03-27,Sara,Nashik,Clothing,Laptop,3,250,0.0,750.0
+2026-01-28,Kabir,Nagpur,Grocery,Laptop,3,400,0.0,1200.0
+2026-03-07,Ayaan,Pune,Grocery,Rice,4,400,0.05,1520.0
+2026-02-11,Rehan,Nagpur,Clothing,Notebook,1,800,0.0,800.0
+2026-02-14,Not Mentioned,Pune,Unknown,Notebook,3,150,0.25,337.5
+2026-02-26,Rohan,Pune,Grocery,Headphones,3,250,0.05,712.5
+2026-04-27,Anaya,Mumbai,Clothing,Headphones,3,400,0.0,1200.0
+2026-01-06,Kabir,Not Mentioned,Clothing,Keyboard,1,150,0.0,150.0
+2026-01-28,Rehan,Not Mentioned,Stationery,Unknown,1,400,0.05,380.0
+2026-01-28,Not Mentioned,Kolhapur,Unknown,Laptop,2,500,0.0,1000.0
+2026-04-18,Anaya,Not Mentioned,Electronics,Unknown,3,400,0.1,1080.0
+2026-02-13,Not Mentioned,Nashik,Unknown,Unknown,2,150,0.0,300.0
+2026-03-25,Rehan,Nagpur,Unknown,Unknown,3,800,0.0,2400.0
+2026-01-30,Sara,Kolhapur,Stationery,Notebook,1,250,0.0,250.0
+2026-03-03,Rehan,Nashik,Electronics,Unknown,4,500,0.0,2000.0
+2026-03-16,Rohan,Nashik,Stationery,Shirt,3,400,0.25,900.0
+2026-04-29,Rehan,Pune,Electronics,Headphones,4,100,0.0,400.0
+2026-04-02,Rehan,Not Mentioned,Grocery,Keyboard,3,500,0.2,1200.0
+2026-03-30,Rohan,Mumbai,Electronics,Shirt,1,250,0.0,250.0
+2026-04-13,Kabir,Mumbai,Stationery,Keyboard,1,400,0.0,400.0
+2026-03-03,Rehan,Kolhapur,Unknown,Rice,1,150,0.0,150.0
+2026-04-07,Rohan,Mumbai,Electronics,Keyboard,2,400,0.0,800.0
+2026-01-01,Anaya,Nagpur,Electronics,Headphones,3,250,0.2,600.0
+2026-01-27,Sara,Mumbai,Clothing,Headphones,3,150,0.2,360.0
+2026-03-03,Sara,Kolhapur,Unknown,Unknown,3,400,0.1,1080.0
+2026-04-26,Rehan,Mumbai,Grocery,Mouse,2,1200,0.2,1920.0
+2026-03-18,Kabir,Nagpur,Stationery,Rice,2,800,0.1,1440.0
+2026-04-15,Kabir,Pune,Grocery,Laptop,5,100,0.0,500.0
+2026-01-03,Anaya,Kolhapur,Unknown,Bottle,4,500,0.0,2000.0
+2026-04-13,Rehan,Pune,Electronics,Keyboard,4,250,0.25,750.0
+2026-03-11,Sara,Pune,Electronics,Mouse,3,100,0.0,300.0
+2026-03-13,Kabir,Pune,Unknown,Unknown,3,400,0.0,1200.0
+2026-01-27,Rehan,Nashik,Electronics,Notebook,2,150,0.0,300.0
+2026-01-09,Not Mentioned,Not Mentioned,Electronics,Laptop,3,150,0.0,450.0
+2026-03-03,Kabir,Nashik,Electronics,Mouse,5,250,0.0,1250.0
+2026-02-06,Rohan,Not Mentioned,Stationery,Notebook,5,400,0.15,1700.0
+2026-04-07,Not Mentioned,Pune,Stationery,Rice,3,400,0.0,1200.0
+2026-02-20,Kabir,Kolhapur,Clothing,Unknown,3,1200,0.25,2700.0
+2026-04-16,Sara,Not Mentioned,Grocery,Laptop,3,800,0.15,2040.0
+2026-01-24,Not Mentioned,Nagpur,Unknown,Laptop,3,400,0.05,1140.0
+2026-03-20,Anaya,Mumbai,Unknown,Rice,4,100,0.05,380.0
+2026-02-28,Anaya,Not Mentioned,Clothing,Keyboard,2,400,0.15,680.0
+2026-04-28,Sara,Kolhapur,Stationery,Rice,3,1200,0.2,2880.0
+2026-02-01,Kabir,Nashik,Clothing,Bottle,2,1200,0.0,2400.0
+2026-04-06,Rehan,Pune,Unknown,Headphones,3,250,0.25,562.5
+2026-03-29,Kabir,Mumbai,Grocery,Unknown,1,400,0.15,340.0
+2026-04-15,Sara,Nagpur,Electronics,Rice,3,400,0.0,1200.0
+2026-02-21,Anaya,Nashik,Stationery,Notebook,2,800,0.0,1600.0
+2026-04-23,Kabir,Nashik,Stationery,Bottle,3,500,0.05,1425.0
+2026-03-03,Anaya,Pune,Clothing,Headphones,1,250,0.0,250.0
+2026-04-23,Not Mentioned,Not Mentioned,Stationery,Keyboard,1,400,0.05,380.0
+2026-02-27,Rehan,Nagpur,Unknown,Notebook,3,500,0.05,1425.0
+2026-02-21,Not Mentioned,Kolhapur,Unknown,Unknown,3,500,0.0,1500.0
+2026-01-12,Anaya,Nashik,Clothing,Notebook,3,400,0.05,1140.0
+2026-02-08,Anaya,Pune,Unknown,Headphones,4,400,0.0,1600.0
+2026-01-02,Ayaan,Kolhapur,Grocery,Notebook,2,100,0.0,200.0
+2026-01-03,Ayaan,Not Mentioned,Clothing,Shirt,1,1200,0.0,1200.0
+2026-04-23,Not Mentioned,Nagpur,Grocery,Mouse,2,400,0.0,800.0
+2026-04-11,Rohan,Not Mentioned,Electronics,Keyboard,3,250,0.0,750.0
+2026-04-23,Not Mentioned,Nashik,Grocery,Headphones,4,150,0.0,600.0
+2026-02-25,Ayaan,Kolhapur,Electronics,Notebook,3,250,0.05,712.5
+2026-03-22,Anaya,Kolhapur,Electronics,Mouse,4,100,0.25,300.0
+2026-02-28,Sara,Kolhapur,Grocery,Mouse,5,800,0.25,3000.0
+2026-04-23,Not Mentioned,Nashik,Clothing,Notebook,4,1200,0.0,4800.0
+2026-01-02,Anaya,Nashik,Unknown,Unknown,3,150,0.0,450.0
+2026-01-02,Sara,Not Mentioned,Unknown,Shirt,3,400,0.0,1200.0
+2026-04-02,Sara,Mumbai,Electronics,Rice,3,800,0.05,2280.0
+2026-02-23,Ayaan,Not Mentioned,Electronics,Shirt,1,400,0.0,400.0
+2026-03-28,Not Mentioned,Nagpur,Clothing,Notebook,3,500,0.0,1500.0
+2026-04-11,Kabir,Pune,Stationery,Keyboard,5,400,0.25,1500.0
+2026-04-06,Rehan,Kolhapur,Grocery,Rice,3,250,0.2,600.0
+2026-04-07,Ayaan,Mumbai,Electronics,Headphones,2,250,0.0,500.0
+2026-01-01,Ayaan,Pune,Unknown,Shirt,3,400,0.0,1200.0
+2026-01-19,Kabir,Mumbai,Clothing,Notebook,3,100,0.0,300.0
+2026-01-02,Rehan,Not Mentioned,Grocery,Shirt,3,400,0.1,1080.0
+2026-02-22,Anaya,Nashik,Clothing,Rice,3,400,0.0,1200.0
+2026-02-13,Rohan,Kolhapur,Grocery,Bottle,1,400,0.05,380.0
+2026-03-31,Not Mentioned,Not Mentioned,Grocery,Shirt,4,800,0.15,2720.0
+2026-02-01,Rohan,Pune,Electronics,Headphones,1,1200,0.15,1020.0
+2026-03-11,Anaya,Pune,Clothing,Headphones,3,800,0.05,2280.0
+2026-02-01,Ayaan,Pune,Clothing,Laptop,2,400,0.1,720.0
+2026-04-29,Rehan,Pune,Unknown,Shirt,5,250,0.1,1125.0
+2026-03-09,Ayaan,Pune,Unknown,Unknown,5,250,0.0,1250.0
+2026-02-24,Sara,Mumbai,Electronics,Mouse,3,250,0.25,562.5
+2026-03-16,Ayaan,Not Mentioned,Electronics,Mouse,5,250,0.0,1250.0
+2026-02-25,Ayaan,Kolhapur,Stationery,Mouse,3,400,0.1,1080.0
+2026-01-17,Anaya,Nashik,Unknown,Bottle,3,400,0.2,960.0
+2026-02-07,Anaya,Nashik,Grocery,Laptop,3,1200,0.0,3600.0
+2026-01-24,Anaya,Not Mentioned,Clothing,Bottle,3,400,0.0,1200.0
+2026-03-10,Rohan,Not Mentioned,Electronics,Shirt,3,1200,0.0,3600.0
+2026-04-26,Sara,Nashik,Clothing,Shirt,3,400,0.0,1200.0
+2026-04-08,Anaya,Nashik,Clothing,Shirt,3,250,0.0,750.0
+2026-03-11,Rehan,Mumbai,Stationery,Keyboard,4,400,0.0,1600.0
+2026-03-27,Rohan,Nagpur,Unknown,Mouse,3,400,0.0,1200.0
+2026-01-11,Kabir,Kolhapur,Electronics,Keyboard,3,800,0.0,2400.0
+2026-04-22,Rehan,Pune,Clothing,Laptop,3,500,0.0,1500.0
+2026-01-16,Not Mentioned,Nagpur,Electronics,Bottle,3,400,0.0,1200.0
+2026-04-07,Not Mentioned,Not Mentioned,Grocery,Mouse,3,400,0.2,960.0
+2026-03-14,Rehan,Nashik,Stationery,Keyboard,3,100,0.2,240.0
+2026-02-28,Anaya,Nagpur,Grocery,Keyboard,1,400,0.2,320.0
+2026-03-11,Kabir,Kolhapur,Electronics,Notebook,3,100,0.0,300.0
+2026-03-21,Kabir,Not Mentioned,Electronics,Keyboard,4,400,0.0,1600.0
+2026-04-03,Rohan,Pune,Unknown,Unknown,5,400,0.0,2000.0
+2026-01-03,Kabir,Pune,Clothing,Unknown,5,400,0.15,1700.0
+2026-01-20,Not Mentioned,Kolhapur,Clothing,Bottle,2,500,0.0,1000.0
+2026-02-28,Sara,Kolhapur,Grocery,Unknown,2,250,0.0,500.0
+2026-02-05,Anaya,Nashik,Stationery,Bottle,5,400,0.2,1600.0
+2026-01-19,Kabir,Pune,Clothing,Bottle,5,400,0.15,1700.0
+2026-03-31,Rohan,Not Mentioned,Unknown,Laptop,3,400,0.1,1080.0
+2026-03-08,Not Mentioned,Nagpur,Grocery,Notebook,4,400,0.1,1440.0
+2026-01-19,Sara,Not Mentioned,Grocery,Shirt,3,400,0.2,960.0
+2026-01-20,Ayaan,Mumbai,Unknown,Headphones,2,150,0.0,300.0
+2026-04-06,Ayaan,Mumbai,Stationery,Bottle,3,400,0.0,1200.0
+2026-03-12,Sara,Kolhapur,Unknown,Rice,3,800,0.2,1920.0
+2026-02-21,Not Mentioned,Nashik,Stationery,Shirt,3,400,0.25,900.0
+2026-04-15,Rohan,Mumbai,Unknown,Mouse,3,400,0.0,1200.0
+2026-02-02,Sara,Pune,Unknown,Unknown,3,1200,0.0,3600.0
+2026-02-09,Anaya,Not Mentioned,Electronics,Headphones,4,100,0.1,360.0
+2026-02-08,Anaya,Not Mentioned,Grocery,Rice,5,250,0.05,1187.5
+2026-03-23,Ayaan,Kolhapur,Unknown,Shirt,3,150,0.1,405.0
+2026-04-14,Kabir,Nagpur,Unknown,Laptop,3,500,0.0,1500.0
+2026-01-01,Rohan,Kolhapur,Clothing,Mouse,5,500,0.0,2500.0
+2026-01-11,Ayaan,Nagpur,Grocery,Headphones,5,500,0.0,2500.0
+2026-04-02,Kabir,Kolhapur,Clothing,Notebook,1,400,0.05,380.0
+2026-02-26,Kabir,Kolhapur,Grocery,Laptop,3,500,0.2,1200.0
+2026-03-30,Anaya,Kolhapur,Clothing,Rice,3,250,0.15,637.5
+2026-02-19,Not Mentioned,Nagpur,Unknown,Headphones,3,100,0.05,285.0
+2026-01-23,Rehan,Nagpur,Unknown,Laptop,3,500,0.0,1500.0
+2026-01-31,Not Mentioned,Kolhapur,Electronics,Mouse,3,400,0.0,1200.0
+2026-02-11,Sara,Nashik,Stationery,Laptop,5,400,0.25,1500.0
+2026-04-09,Anaya,Nashik,Electronics,Keyboard,3,250,0.0,750.0
+2026-01-07,Kabir,Nashik,Clothing,Notebook,3,100,0.25,225.0
+2026-01-16,Rohan,Nagpur,Clothing,Rice,4,150,0.0,600.0
+2026-03-31,Rehan,Nagpur,Electronics,Mouse,3,400,0.15,1020.0
+2026-04-22,Not Mentioned,Mumbai,Unknown,Unknown,1,100,0.0,100.0
+2026-04-26,Kabir,Nashik,Clothing,Unknown,3,400,0.05,1140.0
+2026-03-01,Rehan,Nashik,Unknown,Unknown,5,1200,0.0,6000.0
+2026-04-23,Rehan,Kolhapur,Electronics,Headphones,3,400,0.0,1200.0
+2026-01-02,Rehan,Nagpur,Unknown,Rice,3,800,0.0,2400.0
+2026-01-01,Rohan,Nashik,Grocery,Mouse,2,400,0.0,800.0
+2026-02-17,Anaya,Not Mentioned,Stationery,Notebook,2,250,0.15,425.0
+2026-01-12,Rohan,Mumbai,Clothing,Headphones,3,400,0.05,1140.0
+2026-03-10,Ayaan,Not Mentioned,Stationery,Rice,3,800,0.1,2160.0
+2026-02-06,Kabir,Not Mentioned,Unknown,Keyboard,1,400,0.25,300.0
+2026-02-01,Anaya,Mumbai,Clothing,Mouse,4,500,0.2,1600.0
+2026-04-29,Anaya,Not Mentioned,Unknown,Unknown,5,250,0.0,1250.0
+2026-01-09,Anaya,Nashik,Grocery,Laptop,3,800,0.25,1800.0
+2026-04-15,Not Mentioned,Nagpur,Electronics,Mouse,1,400,0.25,300.0
+2026-04-09,Anaya,Mumbai,Clothing,Bottle,4,400,0.0,1600.0
+2026-01-19,Rohan,Kolhapur,Grocery,Rice,3,250,0.15,637.5
+2026-02-17,Anaya,Not Mentioned,Grocery,Shirt,3,400,0.2,960.0
+2026-03-21,Sara,Mumbai,Clothing,Keyboard,3,1200,0.1,3240.0
+2026-01-03,Kabir,Pune,Unknown,Mouse,3,1200,0.0,3600.0
+2026-01-20,Anaya,Pune,Grocery,Shirt,2,400,0.0,800.0
+2026-01-24,Kabir,Nagpur,Stationery,Bottle,2,800,0.25,1200.0
+2026-02-23,Sara,Nashik,Grocery,Notebook,3,250,0.25,562.5
+2026-04-30,Sara,Nagpur,Unknown,Laptop,1,800,0.0,800.0
+2026-02-02,Kabir,Nagpur,Unknown,Shirt,2,150,0.2,240.0
+2026-01-24,Rehan,Nagpur,Stationery,Rice,5,400,0.2,1600.0
+2026-04-26,Ayaan,Nagpur,Grocery,Unknown,3,150,0.0,450.0
+2026-03-16,Not Mentioned,Kolhapur,Unknown,Bottle,3,1200,0.2,2880.0
+2026-04-23,Rehan,Kolhapur,Clothing,Laptop,3,400,0.25,900.0
+2026-03-13,Rehan,Mumbai,Electronics,Keyboard,3,100,0.0,300.0
+2026-02-05,Rohan,Pune,Electronics,Unknown,3,400,0.05,1140.0
+2026-02-07,Not Mentioned,Nagpur,Electronics,Mouse,2,1200,0.25,1800.0
+2026-04-14,Not Mentioned,Mumbai,Grocery,Shirt,1,800,0.0,800.0
+2026-03-25,Rehan,Pune,Stationery,Laptop,3,800,0.15,2040.0
+2026-04-09,Anaya,Not Mentioned,Unknown,Headphones,5,800,0.0,4000.0
+2026-04-22,Rohan,Nashik,Clothing,Notebook,1,400,0.1,360.0
+2026-03-30,Rohan,Kolhapur,Clothing,Notebook,4,150,0.0,600.0
+2026-04-09,Sara,Not Mentioned,Grocery,Bottle,4,100,0.1,360.0
+2026-01-25,Not Mentioned,Pune,Electronics,Keyboard,3,800,0.25,1800.0
+2026-04-03,Rehan,Not Mentioned,Grocery,Bottle,2,400,0.0,800.0
+2026-01-18,Sara,Nashik,Stationery,Headphones,2,250,0.25,375.0
+2026-04-20,Kabir,Pune,Stationery,Rice,2,100,0.15,170.0
+2026-03-23,Ayaan,Not Mentioned,Unknown,Keyboard,3,400,0.0,1200.0
+2026-03-07,Rohan,Kolhapur,Unknown,Rice,4,100,0.0,400.0
+2026-02-23,Kabir,Kolhapur,Stationery,Keyboard,1,250,0.15,212.5
+2026-02-04,Kabir,Mumbai,Stationery,Keyboard,3,400,0.0,1200.0
+2026-03-21,Anaya,Not Mentioned,Stationery,Headphones,3,250,0.0,750.0
+2026-03-02,Ayaan,Nagpur,Grocery,Mouse,1,400,0.25,300.0
+2026-02-10,Kabir,Not Mentioned,Stationery,Headphones,2,400,0.0,800.0
+2026-04-10,Kabir,Pune,Clothing,Keyboard,5,100,0.15,425.0
+2026-02-02,Ayaan,Pune,Electronics,Laptop,1,800,0.0,800.0
+2026-03-09,Ayaan,Not Mentioned,Stationery,Rice,4,100,0.0,400.0
+2026-02-02,Kabir,Nashik,Electronics,Headphones,3,100,0.0,300.0
+2026-01-14,Ayaan,Kolhapur,Grocery,Mouse,3,400,0.0,1200.0
+2026-01-21,Kabir,Pune,Electronics,Shirt,3,400,0.25,900.0
+2026-02-17,Kabir,Kolhapur,Grocery,Bottle,3,100,0.2,240.0
+2026-01-20,Anaya,Pune,Clothing,Keyboard,3,1200,0.0,3600.0
+2026-04-30,Rehan,Mumbai,Grocery,Shirt,3,500,0.0,1500.0
+2026-01-08,Kabir,Nagpur,Grocery,Notebook,3,500,0.05,1425.0
+2026-01-07,Sara,Pune,Unknown,Unknown,3,100,0.2,240.0
+2026-03-08,Rohan,Kolhapur,Stationery,Mouse,5,800,0.25,3000.0
+2026-01-17,Not Mentioned,Mumbai,Stationery,Unknown,2,400,0.0,800.0
+2026-02-02,Rehan,Pune,Clothing,Mouse,4,400,0.2,1280.0
+2026-02-17,Rehan,Nashik,Clothing,Laptop,3,400,0.0,1200.0
+2026-03-17,Rehan,Nagpur,Stationery,Bottle,5,500,0.0,2500.0
+2026-02-28,Anaya,Pune,Unknown,Shirt,4,100,0.0,400.0
+2026-04-25,Kabir,Mumbai,Stationery,Rice,4,400,0.0,1600.0
+2026-03-27,Anaya,Nashik,Unknown,Mouse,2,100,0.0,200.0
+2026-01-22,Anaya,Mumbai,Electronics,Bottle,3,500,0.0,1500.0
+2026-04-20,Anaya,Mumbai,Clothing,Keyboard,3,250,0.2,600.0
+2026-01-30,Rohan,Nashik,Clothing,Notebook,2,1200,0.15,2040.0
+2026-02-07,Sara,Mumbai,Grocery,Shirt,5,1200,0.0,6000.0
+2026-04-12,Anaya,Nashik,Grocery,Bottle,3,400,0.15,1020.0
+2026-04-19,Rohan,Pune,Grocery,Bottle,5,1200,0.1,5400.0
+2026-02-20,Ayaan,Nashik,Grocery,Laptop,3,250,0.0,750.0
+2026-02-23,Sara,Nashik,Unknown,Unknown,3,100,0.0,300.0
+2026-01-08,Anaya,Nagpur,Stationery,Notebook,3,400,0.0,1200.0
+2026-01-27,Not Mentioned,Nashik,Electronics,Shirt,5,250,0.0,1250.0
+2026-01-27,Rehan,Nashik,Clothing,Keyboard,2,400,0.0,800.0
+2026-01-21,Ayaan,Pune,Electronics,Headphones,3,500,0.0,1500.0
+2026-01-30,Rohan,Nagpur,Unknown,Bottle,4,100,0.25,300.0
+2026-04-07,Ayaan,Not Mentioned,Unknown,Mouse,4,1200,0.15,4080.0
+2026-01-28,Sara,Kolhapur,Clothing,Laptop,1,500,0.0,500.0
+2026-04-21,Anaya,Pune,Stationery,Notebook,5,400,0.1,1800.0
+2026-03-05,Anaya,Pune,Grocery,Keyboard,4,400,0.0,1600.0
+2026-04-07,Not Mentioned,Kolhapur,Stationery,Shirt,1,1200,0.05,1140.0
+2026-03-10,Rehan,Nashik,Clothing,Headphones,3,1200,0.05,3420.0
+2026-03-02,Rohan,Not Mentioned,Clothing,Shirt,3,100,0.0,300.0
+2026-02-17,Rehan,Mumbai,Clothing,Laptop,4,400,0.0,1600.0
+2026-01-19,Ayaan,Nagpur,Electronics,Mouse,5,150,0.15,637.5
+2026-01-04,Not Mentioned,Mumbai,Stationery,Headphones,3,150,0.0,450.0
+2026-02-04,Rehan,Kolhapur,Stationery,Headphones,3,150,0.0,450.0
+2026-03-05,Sara,Pune,Unknown,Unknown,3,400,0.0,1200.0
+2026-02-18,Anaya,Pune,Unknown,Notebook,5,100,0.0,500.0
+2026-01-17,Ayaan,Nagpur,Unknown,Headphones,3,400,0.2,960.0
+2026-02-13,Not Mentioned,Pune,Clothing,Unknown,2,150,0.0,300.0
+2026-04-02,Rehan,Pune,Stationery,Unknown,3,500,0.15,1275.0
+2026-01-30,Rohan,Nagpur,Clothing,Laptop,4,250,0.05,950.0
+2026-04-03,Sara,Not Mentioned,Electronics,Rice,4,400,0.25,1200.0
+2026-02-15,Sara,Not Mentioned,Unknown,Shirt,3,400,0.0,1200.0
+2026-01-06,Anaya,Kolhapur,Clothing,Shirt,3,100,0.0,300.0
+2026-04-09,Rehan,Pune,Electronics,Headphones,2,250,0.0,500.0
+2026-04-15,Ayaan,Pune,Grocery,Mouse,3,400,0.0,1200.0
+2026-02-06,Rehan,Kolhapur,Stationery,Keyboard,2,1200,0.0,2400.0
+2026-01-24,Sara,Not Mentioned,Grocery,Rice,3,150,0.0,450.0
+2026-04-03,Not Mentioned,Nashik,Unknown,Keyboard,3,400,0.0,1200.0
+2026-04-23,Rehan,Nashik,Clothing,Keyboard,4,150,0.0,600.0
+2026-02-15,Anaya,Nashik,Electronics,Notebook,4,250,0.1,900.0
+2026-02-22,Not Mentioned,Not Mentioned,Electronics,Shirt,3,150,0.2,360.0
+2026-04-05,Rohan,Not Mentioned,Stationery,Laptop,1,250,0.0,250.0
+2026-04-09,Kabir,Kolhapur,Grocery,Keyboard,3,800,0.0,2400.0
+2026-03-01,Rehan,Pune,Stationery,Headphones,3,400,0.15,1020.0
+2026-04-07,Anaya,Kolhapur,Clothing,Rice,3,400,0.0,1200.0
+2026-04-26,Not Mentioned,Kolhapur,Stationery,Bottle,3,1200,0.0,3600.0
+2026-03-04,Anaya,Not Mentioned,Electronics,Keyboard,3,250,0.15,637.5
+2026-03-26,Rohan,Nashik,Electronics,Rice,5,400,0.25,1500.0
+2026-02-01,Sara,Mumbai,Unknown,Mouse,4,800,0.0,3200.0
+2026-03-28,Anaya,Pune,Unknown,Shirt,3,500,0.25,1125.0
+2026-02-02,Not Mentioned,Not Mentioned,Clothing,Unknown,2,150,0.0,300.0
+2026-03-08,Anaya,Nashik,Grocery,Notebook,3,800,0.0,2400.0
+2026-01-18,Anaya,Mumbai,Stationery,Rice,5,250,0.05,1187.5
+2026-01-25,Anaya,Mumbai,Clothing,Headphones,3,400,0.0,1200.0
+2026-04-16,Ayaan,Not Mentioned,Unknown,Headphones,4,150,0.0,600.0
+2026-04-05,Ayaan,Nagpur,Stationery,Rice,3,100,0.05,285.0
+2026-02-23,Sara,Pune,Unknown,Headphones,3,400,0.2,960.0
+2026-02-27,Rehan,Mumbai,Stationery,Shirt,3,250,0.15,637.5
+2026-03-08,Anaya,Not Mentioned,Grocery,Headphones,5,100,0.15,425.0
+2026-04-14,Rohan,Not Mentioned,Clothing,Unknown,4,1200,0.0,4800.0
+2026-02-15,Rehan,Nashik,Stationery,Headphones,3,500,0.0,1500.0
+2026-01-24,Rohan,Nagpur,Electronics,Unknown,3,500,0.25,1125.0
+2026-04-24,Rehan,Pune,Electronics,Keyboard,1,100,0.0,100.0
+2026-02-01,Sara,Kolhapur,Stationery,Laptop,3,400,0.05,1140.0
+2026-02-16,Anaya,Nashik,Stationery,Shirt,1,1200,0.25,900.0
+2026-03-27,Anaya,Mumbai,Stationery,Laptop,2,400,0.05,760.0
+2026-01-23,Kabir,Mumbai,Electronics,Keyboard,3,400,0.0,1200.0
+2026-03-07,Rohan,Nashik,Electronics,Shirt,4,800,0.2,2560.0
+2026-01-27,Rehan,Not Mentioned,Stationery,Rice,1,500,0.2,400.0
+2026-04-16,Rehan,Mumbai,Unknown,Rice,3,800,0.25,1800.0
+2026-01-02,Ayaan,Nagpur,Unknown,Unknown,4,150,0.25,450.0
+2026-03-31,Kabir,Pune,Grocery,Keyboard,3,400,0.25,900.0
+2026-01-17,Not Mentioned,Nagpur,Clothing,Unknown,3,250,0.05,712.5
+2026-04-14,Not Mentioned,Mumbai,Unknown,Notebook,3,1200,0.0,3600.0
+2026-02-02,Ayaan,Kolhapur,Electronics,Headphones,1,400,0.1,360.0
+2026-01-09,Ayaan,Pune,Unknown,Bottle,4,500,0.25,1500.0
+2026-02-12,Ayaan,Pune,Grocery,Notebook,3,800,0.0,2400.0
+2026-04-28,Rohan,Nashik,Grocery,Headphones,5,150,0.0,750.0
+2026-02-17,Rohan,Nashik,Clothing,Shirt,1,250,0.0,250.0
+2026-02-08,Sara,Kolhapur,Unknown,Unknown,1,250,0.05,237.5
+2026-04-03,Sara,Not Mentioned,Electronics,Shirt,3,400,0.25,900.0
+2026-02-11,Ayaan,Pune,Electronics,Shirt,4,1200,0.0,4800.0
+2026-04-29,Kabir,Kolhapur,Stationery,Headphones,4,400,0.15,1360.0
+2026-01-26,Rehan,Nashik,Electronics,Keyboard,3,400,0.1,1080.0
+2026-04-09,Rohan,Nashik,Clothing,Headphones,3,800,0.0,2400.0
+2026-02-19,Kabir,Pune,Clothing,Mouse,3,400,0.0,1200.0
+2026-01-25,Anaya,Nagpur,Electronics,Rice,3,100,0.0,300.0
+2026-01-24,Rohan,Mumbai,Electronics,Rice,3,400,0.2,960.0

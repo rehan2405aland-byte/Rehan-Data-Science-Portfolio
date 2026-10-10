@@ -1,0 +1,726 @@
+Customer_Name,City,Category,Product,Date,Quantity,Price,Discount,Total Sales
+Not Mentioned,Delhi,Clothing,Rice,2026-06-21,3,999,0.1,2697.3
+Priya Patil,Mumbai,Clothing,Laptop,2026-05-02,1,1499,0.15,1274.1499999999999
+Rahul Sharma,Delhi,Unknown,Shoes,2026-02-12,3,1499,0.1,4047.3
+Rohan Mehta,Delhi,Electronics,T-Shirt,2026-05-30,3,4999,0.2,11997.6
+Amit Joshi,Mumbai,Unknown,Phone,2026-04-25,2,1499,0.1,2698.2000000000003
+Neha Singh,Pune,Unknown,Unknown,2026-05-13,4,499,0.2,1596.8000000000002
+Rahul Sharma,Delhi,Grocery,T-Shirt,2026-02-21,2,799,0.05,1518.1
+Amit Joshi,Mumbai,Clothing,Headphones,2026-01-15,3,999,0.2,2397.6
+Rohan Mehta,Pune,Grocery,T-Shirt,2026-06-25,2,1499,0.15,2548.2999999999997
+Amit Joshi,Pune,Clothing,T-Shirt,2026-03-27,5,999,0.15,4245.75
+Not Mentioned,Mumbai,Electronics,Rice,2026-04-18,3,4999,0.15,12747.449999999999
+Not Mentioned,Delhi,Electronics,T-Shirt,2026-01-12,4,4999,0.0,19996.0
+Rohan Mehta,Delhi,Unknown,Rice,2026-06-07,3,999,0.0,2997.0
+Anjali Verma,Mumbai,Clothing,Headphones,2026-02-21,3,999,0.0,2997.0
+Not Mentioned,Mumbai,Grocery,Rice,2026-01-03,4,999,0.1,3596.4
+Priya Patil,Pune,Grocery,Headphones,2026-02-20,5,2499,0.1,11245.5
+Anjali Verma,Mumbai,Unknown,Shoes,2026-01-28,4,999,0.1,3596.4
+Rohan Mehta,Mumbai,Clothing,Phone,2026-03-26,2,999,0.1,1798.2
+Rahul Sharma,Mumbai,Clothing,Laptop,2026-04-30,2,799,0.15,1358.3
+Amit Joshi,Pune,Clothing,Rice,2026-03-01,4,1499,0.05,5696.2
+Priya Patil,Pune,Grocery,Headphones,2026-02-01,3,999,0.15,2547.45
+Anjali Verma,Delhi,Electronics,Shoes,2026-02-12,2,999,0.15,1698.3
+Not Mentioned,Mumbai,Unknown,Rice,2026-01-29,4,2499,0.0,9996.0
+Anjali Verma,Mumbai,Unknown,Shoes,2026-06-05,3,4999,0.0,14997.0
+Priya Patil,Mumbai,Electronics,Phone,2026-04-04,3,999,0.0,2997.0
+Rohan Mehta,Delhi,Electronics,Headphones,2026-01-10,3,1499,0.1,4047.3
+Rohan Mehta,Delhi,Unknown,Headphones,2026-03-17,2,2499,0.2,3998.4
+Not Mentioned,Delhi,Unknown,Shoes,2026-03-25,2,499,0.15,848.3
+Rahul Sharma,Mumbai,Clothing,Laptop,2026-05-09,5,499,0.2,1996.0
+Neha Singh,Not Mentioned,Electronics,Headphones,2026-04-27,4,999,0.1,3596.4
+Unknown,Pune,Electronics,Rice,2026-05-11,2,999,0.0,1998.0
+Not Mentioned,Mumbai,Clothing,Shoes,2026-02-04,3,1499,0.1,4047.3
+Rohan Mehta,Delhi,Unknown,Shoes,2026-01-04,5,999,0.0,4995.0
+Neha Singh,Not Mentioned,Grocery,T-Shirt,2026-03-24,1,499,0.2,399.20000000000005
+Neha Singh,Pune,Electronics,Rice,2026-02-28,1,999,0.1,899.1
+Amit Joshi,Pune,Grocery,Laptop,2026-03-03,1,1499,0.15,1274.1499999999999
+Priya Patil,Mumbai,Grocery,Laptop,2026-06-13,2,999,0.0,1998.0
+Priya Patil,Not Mentioned,Grocery,Laptop,2026-06-06,2,1499,0.1,2698.2000000000003
+Priya Patil,Pune,Clothing,Headphones,2026-05-22,3,1499,0.0,4497.0
+Priya Patil,Mumbai,Electronics,Headphones,2026-01-10,3,999,0.1,2697.3
+Not Mentioned,Pune,Grocery,Unknown,2026-02-07,2,799,0.1,1438.2
+Neha Singh,Mumbai,Unknown,Laptop,2026-01-11,5,999,0.1,4495.5
+Rahul Sharma,Mumbai,Clothing,Shoes,2026-02-19,3,999,0.0,2997.0
+Neha Singh,Pune,Grocery,Shoes,2026-03-27,2,1499,0.15,2548.2999999999997
+Priya Patil,Not Mentioned,Electronics,Phone,2026-02-23,3,999,0.0,2997.0
+Rohan Mehta,Delhi,Unknown,Phone,2026-05-09,2,999,0.15,1698.3
+Not Mentioned,Mumbai,Clothing,Shoes,2026-01-17,3,999,0.05,2847.15
+Rahul Sharma,Pune,Unknown,Shoes,2026-06-08,2,999,0.0,1998.0
+Neha Singh,Mumbai,Electronics,Shoes,2026-01-23,2,999,0.05,1898.1
+Neha Singh,Not Mentioned,Grocery,T-Shirt,2026-04-02,2,2499,0.0,4998.0
+Anjali Verma,Not Mentioned,Electronics,Shoes,2026-04-19,3,1499,0.0,4497.0
+Amit Joshi,Mumbai,Grocery,Laptop,2026-06-24,2,999,0.15,1698.3
+Priya Patil,Mumbai,Electronics,Unknown,2026-01-04,3,2499,0.2,5997.6
+Priya Patil,Not Mentioned,Unknown,T-Shirt,2026-05-02,2,499,0.15,848.3
+Neha Singh,Mumbai,Clothing,Phone,2026-06-05,3,999,0.2,2397.6
+Rohan Mehta,Mumbai,Grocery,Laptop,2026-06-22,3,1499,0.1,4047.3
+Amit Joshi,Delhi,Electronics,Shoes,2026-05-22,3,999,0.1,2697.3
+Neha Singh,Mumbai,Grocery,Phone,2026-06-04,2,499,0.0,998.0
+Rohan Mehta,Delhi,Electronics,Laptop,2026-01-03,2,999,0.15,1698.3
+Amit Joshi,Delhi,Clothing,Phone,2026-06-12,3,799,0.15,2037.45
+Anjali Verma,Mumbai,Grocery,Rice,2026-02-28,1,999,0.0,999.0
+Priya Patil,Pune,Clothing,Unknown,2026-01-06,2,999,0.2,1598.4
+Anjali Verma,Mumbai,Electronics,Headphones,2026-01-01,3,999,0.1,2697.3
+Anjali Verma,Pune,Grocery,Rice,2026-06-09,3,999,0.05,2847.15
+Anjali Verma,Not Mentioned,Clothing,Rice,2026-03-12,1,999,0.2,799.2
+Not Mentioned,Pune,Grocery,Rice,2026-04-30,5,999,0.2,3996.0
+Neha Singh,Pune,Grocery,Phone,2026-04-08,1,999,0.0,999.0
+Rohan Mehta,Pune,Electronics,Laptop,2026-01-26,2,2499,0.15,4248.3
+Priya Patil,Mumbai,Electronics,Phone,2026-06-16,3,2499,0.2,5997.6
+Amit Joshi,Pune,Electronics,Laptop,2026-01-16,1,999,0.1,899.1
+Neha Singh,Pune,Grocery,Shoes,2026-01-09,1,2499,0.0,2499.0
+Anjali Verma,Mumbai,Clothing,Headphones,2026-01-22,3,2499,0.1,6747.3
+Not Mentioned,Delhi,Electronics,Shoes,2026-03-21,2,999,0.2,1598.4
+Neha Singh,Mumbai,Clothing,T-Shirt,2026-03-30,2,4999,0.05,9498.1
+Rohan Mehta,Mumbai,Unknown,Rice,2026-05-21,3,999,0.15,2547.45
+Neha Singh,Not Mentioned,Grocery,T-Shirt,2026-01-13,3,799,0.0,2397.0
+Amit Joshi,Pune,Clothing,Headphones,2026-06-28,3,999,0.1,2697.3
+Anjali Verma,Delhi,Unknown,Phone,2026-03-17,4,4999,0.0,19996.0
+Rahul Sharma,Delhi,Grocery,Laptop,2026-06-11,3,1499,0.05,4272.15
+Amit Joshi,Mumbai,Electronics,Shoes,2026-01-30,3,799,0.05,2277.15
+Amit Joshi,Delhi,Electronics,Phone,2026-03-08,5,499,0.2,1996.0
+Rohan Mehta,Delhi,Grocery,Unknown,2026-01-08,2,1499,0.0,2998.0
+Amit Joshi,Pune,Clothing,Phone,2026-03-25,2,4999,0.1,8998.2
+Amit Joshi,Mumbai,Clothing,T-Shirt,2026-01-20,4,999,0.05,3796.2
+Rahul Sharma,Mumbai,Electronics,Shoes,2026-03-21,5,4999,0.1,22495.5
+Priya Patil,Delhi,Grocery,T-Shirt,2026-01-16,3,1499,0.15,3822.45
+Rahul Sharma,Not Mentioned,Electronics,Phone,2026-03-22,3,499,0.15,1272.45
+Rohan Mehta,Mumbai,Electronics,T-Shirt,2026-06-13,3,999,0.0,2997.0
+Amit Joshi,Pune,Grocery,Shoes,2026-01-04,2,1499,0.15,2548.2999999999997
+Priya Patil,Delhi,Grocery,Phone,2026-04-30,3,999,0.15,2547.45
+Neha Singh,Mumbai,Grocery,Rice,2026-04-10,4,999,0.15,3396.6
+Neha Singh,Delhi,Clothing,T-Shirt,2026-04-26,3,999,0.0,2997.0
+Neha Singh,Pune,Electronics,T-Shirt,2026-01-24,4,799,0.0,3196.0
+Rohan Mehta,Mumbai,Grocery,Shoes,2026-06-27,3,799,0.1,2157.3
+Rohan Mehta,Mumbai,Unknown,Headphones,2026-05-11,3,999,0.15,2547.45
+Priya Patil,Delhi,Electronics,Laptop,2026-04-12,2,999,0.0,1998.0
+Priya Patil,Pune,Clothing,Headphones,2026-01-30,3,999,0.1,2697.3
+Not Mentioned,Delhi,Clothing,Shoes,2026-06-18,3,999,0.15,2547.45
+Anjali Verma,Delhi,Clothing,Headphones,2026-02-10,4,4999,0.1,17996.4
+Neha Singh,Delhi,Unknown,Laptop,2026-04-29,3,1499,0.1,4047.3
+Neha Singh,Not Mentioned,Unknown,Rice,2026-02-04,2,499,0.0,998.0
+Rohan Mehta,Mumbai,Grocery,Rice,2026-03-22,3,4999,0.1,13497.300000000001
+Rahul Sharma,Delhi,Clothing,Laptop,2026-01-05,3,999,0.0,2997.0
+Amit Joshi,Mumbai,Electronics,Shoes,2026-05-07,2,499,0.05,948.0999999999999
+Amit Joshi,Pune,Grocery,Phone,2026-06-01,3,1499,0.2,3597.6000000000004
+Amit Joshi,Mumbai,Grocery,T-Shirt,2026-03-20,3,999,0.05,2847.15
+Not Mentioned,Not Mentioned,Unknown,T-Shirt,2026-05-28,5,799,0.0,3995.0
+Neha Singh,Pune,Electronics,Unknown,2026-02-04,3,1499,0.1,4047.3
+Not Mentioned,Pune,Grocery,Unknown,2026-01-09,1,499,0.0,499.0
+Neha Singh,Pune,Electronics,Shoes,2026-01-11,4,4999,0.2,15996.800000000001
+Rahul Sharma,Mumbai,Unknown,T-Shirt,2026-01-07,2,999,0.0,1998.0
+Rohan Mehta,Delhi,Electronics,Headphones,2026-06-17,5,499,0.1,2245.5
+Not Mentioned,Mumbai,Grocery,Headphones,2026-04-09,3,1499,0.15,3822.45
+Rohan Mehta,Mumbai,Grocery,T-Shirt,2026-03-08,4,999,0.15,3396.6
+Anjali Verma,Delhi,Clothing,Phone,2026-02-14,3,799,0.15,2037.45
+Amit Joshi,Delhi,Grocery,Laptop,2026-06-01,5,999,0.15,4245.75
+Not Mentioned,Delhi,Electronics,Rice,2026-03-24,3,999,0.0,2997.0
+Rahul Sharma,Pune,Unknown,Headphones,2026-03-20,3,1499,0.05,4272.15
+Rahul Sharma,Mumbai,Clothing,Shoes,2026-02-18,3,499,0.0,1497.0
+Not Mentioned,Delhi,Grocery,Phone,2026-01-13,2,999,0.1,1798.2
+Anjali Verma,Not Mentioned,Electronics,Headphones,2026-04-16,4,499,0.0,1996.0
+Neha Singh,Mumbai,Unknown,Unknown,2026-04-11,3,4999,0.05,14247.15
+Not Mentioned,Mumbai,Electronics,Shoes,2026-05-29,1,1499,0.1,1349.1000000000001
+Amit Joshi,Not Mentioned,Unknown,Unknown,2026-01-17,3,999,0.0,2997.0
+Not Mentioned,Pune,Clothing,Shoes,2026-06-09,2,2499,0.0,4998.0
+Neha Singh,Not Mentioned,Clothing,Rice,2026-05-12,3,4999,0.15,12747.449999999999
+Amit Joshi,Mumbai,Grocery,Unknown,2026-05-12,4,799,0.0,3196.0
+Rahul Sharma,Delhi,Grocery,Headphones,2026-03-12,3,799,0.1,2157.3
+Priya Patil,Pune,Clothing,Rice,2026-03-26,3,999,0.05,2847.15
+Anjali Verma,Mumbai,Unknown,Shoes,2026-05-25,3,999,0.0,2997.0
+Neha Singh,Mumbai,Grocery,Unknown,2026-03-09,2,1499,0.2,2398.4
+Anjali Verma,Pune,Clothing,T-Shirt,2026-01-19,3,999,0.2,2397.6
+Amit Joshi,Not Mentioned,Electronics,Laptop,2026-03-02,3,799,0.2,1917.6000000000001
+Rahul Sharma,Delhi,Electronics,Phone,2026-01-05,3,499,0.05,1422.1499999999999
+Priya Patil,Not Mentioned,Clothing,Shoes,2026-01-30,5,2499,0.1,11245.5
+Amit Joshi,Pune,Unknown,Rice,2026-01-23,3,499,0.0,1497.0
+Rohan Mehta,Not Mentioned,Clothing,Laptop,2026-05-18,1,999,0.15,849.15
+Not Mentioned,Pune,Electronics,Rice,2026-06-20,4,999,0.15,3396.6
+Not Mentioned,Mumbai,Electronics,Unknown,2026-03-04,3,799,0.15,2037.45
+Amit Joshi,Pune,Grocery,Headphones,2026-02-19,4,799,0.1,2876.4
+Amit Joshi,Pune,Electronics,Unknown,2026-05-21,2,999,0.15,1698.3
+Neha Singh,Pune,Unknown,Headphones,2026-04-17,3,499,0.05,1422.1499999999999
+Rohan Mehta,Pune,Electronics,Laptop,2026-03-07,1,999,0.15,849.15
+Amit Joshi,Pune,Grocery,Laptop,2026-03-12,3,1499,0.15,3822.45
+Priya Patil,Delhi,Grocery,Shoes,2026-06-25,5,999,0.2,3996.0
+Not Mentioned,Delhi,Grocery,Unknown,2026-02-09,5,999,0.05,4745.25
+Neha Singh,Mumbai,Grocery,Rice,2026-03-31,2,1499,0.0,2998.0
+Anjali Verma,Delhi,Clothing,Phone,2026-01-29,4,1499,0.1,5396.400000000001
+Anjali Verma,Not Mentioned,Electronics,Shoes,2026-04-30,3,999,0.0,2997.0
+Anjali Verma,Mumbai,Electronics,Phone,2026-04-18,1,999,0.0,999.0
+Anjali Verma,Not Mentioned,Clothing,Shoes,2026-02-12,3,999,0.0,2997.0
+Rohan Mehta,Mumbai,Clothing,Laptop,2026-03-25,2,2499,0.15,4248.3
+Amit Joshi,Delhi,Unknown,Rice,2026-01-16,3,1499,0.0,4497.0
+Priya Patil,Mumbai,Grocery,Rice,2026-06-23,2,1499,0.15,2548.2999999999997
+Rahul Sharma,Delhi,Unknown,Rice,2026-06-02,3,2499,0.1,6747.3
+Anjali Verma,Pune,Clothing,Unknown,2026-05-31,4,999,0.0,3996.0
+Priya Patil,Pune,Clothing,Headphones,2026-02-27,1,499,0.1,449.1
+Rahul Sharma,Not Mentioned,Grocery,Headphones,2026-05-29,4,2499,0.1,8996.4
+Rahul Sharma,Mumbai,Clothing,Shoes,2026-02-20,3,999,0.0,2997.0
+Amit Joshi,Not Mentioned,Unknown,Rice,2026-01-12,1,1499,0.05,1424.05
+Anjali Verma,Delhi,Clothing,Shoes,2026-01-31,2,1499,0.1,2698.2000000000003
+Priya Patil,Delhi,Grocery,Unknown,2026-03-23,3,999,0.05,2847.15
+Rahul Sharma,Delhi,Unknown,Laptop,2026-04-04,3,1499,0.15,3822.45
+Rohan Mehta,Pune,Grocery,Unknown,2026-01-01,3,999,0.05,2847.15
+Rahul Sharma,Pune,Clothing,Unknown,2026-06-15,2,1499,0.05,2848.1
+Neha Singh,Pune,Grocery,Rice,2026-06-03,5,999,0.1,4495.5
+Rahul Sharma,Pune,Unknown,Headphones,2026-03-16,5,999,0.15,4245.75
+Rahul Sharma,Not Mentioned,Clothing,Shoes,2026-02-16,2,799,0.2,1278.4
+Amit Joshi,Pune,Grocery,Headphones,2026-04-21,1,999,0.15,849.15
+Rahul Sharma,Pune,Clothing,Unknown,2026-03-19,2,999,0.1,1798.2
+Not Mentioned,Mumbai,Clothing,Headphones,2026-04-26,2,1499,0.0,2998.0
+Rohan Mehta,Mumbai,Grocery,Laptop,2026-02-12,5,4999,0.1,22495.5
+Anjali Verma,Not Mentioned,Electronics,T-Shirt,2026-02-18,4,499,0.05,1896.1999999999998
+Neha Singh,Delhi,Grocery,Headphones,2026-01-16,5,999,0.15,4245.75
+Neha Singh,Pune,Unknown,Headphones,2026-04-21,3,2499,0.05,7122.15
+Rohan Mehta,Mumbai,Unknown,Headphones,2026-06-23,5,999,0.0,4995.0
+Neha Singh,Delhi,Electronics,Shoes,2026-06-12,2,1499,0.15,2548.2999999999997
+Neha Singh,Mumbai,Electronics,Rice,2026-04-13,2,999,0.2,1598.4
+Rohan Mehta,Mumbai,Clothing,Laptop,2026-01-25,3,1499,0.0,4497.0
+Anjali Verma,Mumbai,Clothing,T-Shirt,2026-03-25,4,1499,0.0,5996.0
+Amit Joshi,Mumbai,Clothing,Rice,2026-03-20,1,499,0.1,449.1
+Anjali Verma,Delhi,Electronics,Phone,2026-05-21,4,999,0.0,3996.0
+Priya Patil,Pune,Grocery,Rice,2026-02-20,2,1499,0.0,2998.0
+Priya Patil,Pune,Clothing,Unknown,2026-03-30,3,999,0.15,2547.45
+Priya Patil,Delhi,Clothing,Phone,2026-03-31,5,2499,0.2,9996.0
+Anjali Verma,Delhi,Clothing,Unknown,2026-06-03,2,999,0.2,1598.4
+Priya Patil,Pune,Clothing,Unknown,2026-06-21,1,999,0.0,999.0
+Not Mentioned,Pune,Electronics,Laptop,2026-05-27,1,2499,0.0,2499.0
+Rohan Mehta,Delhi,Grocery,Unknown,2026-02-25,3,999,0.05,2847.15
+Rohan Mehta,Mumbai,Unknown,Shoes,2026-01-05,3,2499,0.15,6372.45
+Rahul Sharma,Not Mentioned,Clothing,T-Shirt,2026-04-21,3,999,0.15,2547.45
+Rohan Mehta,Mumbai,Grocery,Headphones,2026-03-30,3,999,0.15,2547.45
+Rahul Sharma,Pune,Electronics,Laptop,2026-06-19,3,999,0.05,2847.15
+Neha Singh,Delhi,Clothing,Rice,2026-01-07,4,499,0.0,1996.0
+Not Mentioned,Delhi,Clothing,T-Shirt,2026-04-26,2,1499,0.1,2698.2000000000003
+Anjali Verma,Mumbai,Grocery,T-Shirt,2026-03-12,1,1499,0.15,1274.1499999999999
+Anjali Verma,Not Mentioned,Clothing,Shoes,2026-04-04,3,999,0.0,2997.0
+Priya Patil,Delhi,Electronics,T-Shirt,2026-03-08,3,999,0.1,2697.3
+Not Mentioned,Pune,Unknown,Headphones,2026-01-15,2,2499,0.0,4998.0
+Rohan Mehta,Delhi,Electronics,Shoes,2026-05-25,2,999,0.0,1998.0
+Not Mentioned,Mumbai,Electronics,Shoes,2026-01-03,3,1499,0.05,4272.15
+Not Mentioned,Not Mentioned,Grocery,Rice,2026-02-11,3,499,0.2,1197.6000000000001
+Neha Singh,Mumbai,Electronics,Shoes,2026-05-08,1,999,0.2,799.2
+Rahul Sharma,Pune,Grocery,Headphones,2026-04-17,2,999,0.2,1598.4
+Not Mentioned,Not Mentioned,Clothing,Phone,2026-04-13,5,999,0.2,3996.0
+Rohan Mehta,Mumbai,Grocery,Headphones,2026-03-26,2,2499,0.1,4498.2
+Rahul Sharma,Mumbai,Grocery,T-Shirt,2026-03-13,3,999,0.1,2697.3
+Amit Joshi,Delhi,Clothing,Unknown,2026-05-30,4,499,0.1,1796.4
+Priya Patil,Mumbai,Electronics,Shoes,2026-04-18,2,799,0.0,1598.0
+Not Mentioned,Mumbai,Electronics,Headphones,2026-05-28,1,1499,0.15,1274.1499999999999
+Amit Joshi,Pune,Grocery,Headphones,2026-03-26,3,999,0.15,2547.45
+Rahul Sharma,Pune,Clothing,Laptop,2026-01-12,2,2499,0.0,4998.0
+Priya Patil,Pune,Grocery,Shoes,2026-04-16,3,999,0.0,2997.0
+Rohan Mehta,Not Mentioned,Grocery,Phone,2026-05-25,5,4999,0.0,24995.0
+Rohan Mehta,Not Mentioned,Unknown,Shoes,2026-05-02,3,1499,0.15,3822.45
+Not Mentioned,Delhi,Grocery,Headphones,2026-01-28,3,1499,0.0,4497.0
+Amit Joshi,Delhi,Unknown,Unknown,2026-05-04,2,799,0.15,1358.3
+Rohan Mehta,Mumbai,Unknown,Laptop,2026-04-30,4,999,0.15,3396.6
+Anjali Verma,Not Mentioned,Unknown,Headphones,2026-01-11,2,999,0.15,1698.3
+Amit Joshi,Pune,Unknown,Rice,2026-01-13,4,999,0.1,3596.4
+Rahul Sharma,Delhi,Clothing,Rice,2026-04-28,3,2499,0.1,6747.3
+Rohan Mehta,Delhi,Clothing,T-Shirt,2026-01-15,3,999,0.15,2547.45
+Rohan Mehta,Pune,Grocery,Headphones,2026-06-21,2,999,0.1,1798.2
+Amit Joshi,Pune,Grocery,Phone,2026-06-19,5,799,0.1,3595.5
+Neha Singh,Delhi,Electronics,Laptop,2026-02-21,5,799,0.05,3795.25
+Rohan Mehta,Not Mentioned,Unknown,Laptop,2026-06-05,5,4999,0.15,21245.75
+Not Mentioned,Pune,Clothing,Laptop,2026-02-07,1,1499,0.05,1424.05
+Rahul Sharma,Pune,Electronics,Laptop,2026-03-24,1,799,0.1,719.1
+Neha Singh,Mumbai,Clothing,T-Shirt,2026-01-20,4,999,0.0,3996.0
+Priya Patil,Mumbai,Electronics,Phone,2026-02-07,3,799,0.1,2157.3
+Amit Joshi,Not Mentioned,Clothing,Headphones,2026-05-10,3,799,0.0,2397.0
+Rahul Sharma,Pune,Electronics,Unknown,2026-02-10,3,799,0.1,2157.3
+Amit Joshi,Mumbai,Grocery,Unknown,2026-02-10,3,999,0.15,2547.45
+Rahul Sharma,Mumbai,Grocery,T-Shirt,2026-02-22,3,1499,0.2,3597.6000000000004
+Anjali Verma,Mumbai,Grocery,Unknown,2026-02-10,3,999,0.1,2697.3
+Neha Singh,Delhi,Grocery,Unknown,2026-03-05,5,1499,0.0,7495.0
+Amit Joshi,Delhi,Electronics,Headphones,2026-03-20,2,799,0.05,1518.1
+Priya Patil,Pune,Electronics,Laptop,2026-01-13,4,2499,0.15,8496.6
+Anjali Verma,Mumbai,Unknown,Laptop,2026-06-15,3,1499,0.15,3822.45
+Neha Singh,Mumbai,Unknown,Headphones,2026-02-28,3,799,0.0,2397.0
+Anjali Verma,Not Mentioned,Electronics,Headphones,2026-03-20,5,1499,0.0,7495.0
+Rohan Mehta,Mumbai,Electronics,Rice,2026-01-09,3,499,0.0,1497.0
+Anjali Verma,Mumbai,Electronics,Headphones,2026-03-27,3,499,0.05,1422.1499999999999
+Anjali Verma,Delhi,Grocery,Headphones,2026-01-10,3,499,0.1,1347.3
+Not Mentioned,Delhi,Grocery,T-Shirt,2026-02-23,2,499,0.0,998.0
+Amit Joshi,Mumbai,Electronics,Shoes,2026-06-07,1,999,0.05,949.05
+Not Mentioned,Delhi,Grocery,Shoes,2026-01-23,3,999,0.15,2547.45
+Amit Joshi,Not Mentioned,Grocery,T-Shirt,2026-05-04,3,1499,0.0,4497.0
+Anjali Verma,Not Mentioned,Clothing,Shoes,2026-05-17,3,999,0.1,2697.3
+Amit Joshi,Mumbai,Electronics,Headphones,2026-05-18,5,799,0.2,3196.0
+Rahul Sharma,Delhi,Electronics,T-Shirt,2026-01-17,5,999,0.15,4245.75
+Rahul Sharma,Delhi,Grocery,Phone,2026-05-04,1,999,0.1,899.1
+Neha Singh,Mumbai,Clothing,T-Shirt,2026-06-26,1,999,0.0,999.0
+Rohan Mehta,Delhi,Clothing,Shoes,2026-02-27,3,999,0.1,2697.3
+Amit Joshi,Not Mentioned,Clothing,Phone,2026-05-28,3,999,0.0,2997.0
+Not Mentioned,Not Mentioned,Grocery,Rice,2026-05-01,3,2499,0.1,6747.3
+Priya Patil,Not Mentioned,Unknown,Unknown,2026-06-08,3,4999,0.1,13497.300000000001
+Neha Singh,Mumbai,Unknown,Laptop,2026-06-09,5,1499,0.05,7120.25
+Amit Joshi,Pune,Grocery,Rice,2026-02-09,2,499,0.1,898.2
+Neha Singh,Delhi,Clothing,T-Shirt,2026-06-17,3,999,0.1,2697.3
+Priya Patil,Pune,Clothing,Shoes,2026-03-28,2,499,0.0,998.0
+Anjali Verma,Mumbai,Unknown,Laptop,2026-03-16,4,4999,0.15,16996.6
+Anjali Verma,Mumbai,Clothing,Headphones,2026-01-03,4,999,0.0,3996.0
+Rohan Mehta,Mumbai,Clothing,Shoes,2026-06-09,1,999,0.0,999.0
+Neha Singh,Pune,Unknown,Laptop,2026-01-08,3,499,0.2,1197.6000000000001
+Not Mentioned,Mumbai,Clothing,T-Shirt,2026-05-15,2,999,0.1,1798.2
+Neha Singh,Not Mentioned,Grocery,Phone,2026-06-21,2,999,0.0,1998.0
+Anjali Verma,Pune,Electronics,Rice,2026-02-08,3,999,0.15,2547.45
+Rahul Sharma,Delhi,Clothing,Laptop,2026-01-04,3,999,0.1,2697.3
+Priya Patil,Pune,Electronics,Headphones,2026-04-12,2,499,0.15,848.3
+Neha Singh,Pune,Grocery,T-Shirt,2026-06-11,2,799,0.05,1518.1
+Rohan Mehta,Not Mentioned,Electronics,T-Shirt,2026-02-20,3,799,0.1,2157.3
+Rohan Mehta,Not Mentioned,Grocery,Shoes,2026-05-05,3,1499,0.0,4497.0
+Not Mentioned,Pune,Grocery,Unknown,2026-02-07,2,499,0.05,948.0999999999999
+Anjali Verma,Mumbai,Electronics,Rice,2026-03-03,3,2499,0.1,6747.3
+Not Mentioned,Pune,Electronics,Shoes,2026-04-01,3,499,0.0,1497.0
+Anjali Verma,Delhi,Unknown,T-Shirt,2026-03-30,2,999,0.05,1898.1
+Amit Joshi,Delhi,Grocery,Headphones,2026-04-24,1,499,0.15,424.15
+Rohan Mehta,Pune,Grocery,T-Shirt,2026-01-19,4,4999,0.1,17996.4
+Rohan Mehta,Pune,Grocery,Phone,2026-01-05,3,999,0.05,2847.15
+Rohan Mehta,Pune,Grocery,Unknown,2026-02-20,3,4999,0.0,14997.0
+Rohan Mehta,Delhi,Grocery,T-Shirt,2026-02-26,3,999,0.0,2997.0
+Neha Singh,Pune,Grocery,T-Shirt,2026-05-15,3,1499,0.1,4047.3
+Amit Joshi,Pune,Clothing,T-Shirt,2026-03-11,2,999,0.1,1798.2
+Rahul Sharma,Mumbai,Electronics,Shoes,2026-05-21,2,499,0.1,898.2
+Rahul Sharma,Delhi,Electronics,Headphones,2026-02-11,3,1499,0.0,4497.0
+Rahul Sharma,Not Mentioned,Grocery,Phone,2026-01-02,3,999,0.1,2697.3
+Amit Joshi,Delhi,Electronics,Laptop,2026-05-10,4,999,0.05,3796.2
+Amit Joshi,Not Mentioned,Electronics,Headphones,2026-03-31,4,999,0.0,3996.0
+Anjali Verma,Delhi,Grocery,Laptop,2026-02-10,3,999,0.15,2547.45
+Priya Patil,Pune,Electronics,Phone,2026-04-27,3,2499,0.0,7497.0
+Priya Patil,Delhi,Unknown,Shoes,2026-04-17,3,1499,0.0,4497.0
+Rahul Sharma,Delhi,Clothing,Shoes,2026-03-15,1,999,0.0,999.0
+Rahul Sharma,Delhi,Clothing,T-Shirt,2026-05-30,2,4999,0.15,8498.3
+Rohan Mehta,Mumbai,Clothing,Shoes,2026-06-11,4,499,0.0,1996.0
+Amit Joshi,Mumbai,Clothing,T-Shirt,2026-06-17,5,999,0.2,3996.0
+Rohan Mehta,Mumbai,Grocery,Rice,2026-03-01,2,999,0.0,1998.0
+Rahul Sharma,Pune,Grocery,Laptop,2026-02-01,3,799,0.05,2277.15
+Not Mentioned,Mumbai,Electronics,Shoes,2026-03-14,5,4999,0.1,22495.5
+Priya Patil,Mumbai,Electronics,Laptop,2026-02-11,3,1499,0.1,4047.3
+Rahul Sharma,Pune,Grocery,Unknown,2026-03-28,3,999,0.2,2397.6
+Anjali Verma,Not Mentioned,Grocery,T-Shirt,2026-02-19,2,999,0.15,1698.3
+Amit Joshi,Delhi,Clothing,T-Shirt,2026-06-19,3,499,0.2,1197.6000000000001
+Amit Joshi,Mumbai,Unknown,Rice,2026-03-03,2,1499,0.15,2548.2999999999997
+Rahul Sharma,Delhi,Clothing,Headphones,2026-04-02,1,999,0.15,849.15
+Rohan Mehta,Not Mentioned,Clothing,Unknown,2026-02-20,3,1499,0.2,3597.6000000000004
+Priya Patil,Not Mentioned,Unknown,Unknown,2026-02-11,3,999,0.0,2997.0
+Priya Patil,Mumbai,Clothing,Headphones,2026-05-08,2,2499,0.0,4998.0
+Rohan Mehta,Mumbai,Unknown,Unknown,2026-03-07,2,999,0.1,1798.2
+Rohan Mehta,Pune,Clothing,Phone,2026-03-27,2,799,0.15,1358.3
+Priya Patil,Delhi,Grocery,Laptop,2026-06-07,4,1499,0.0,5996.0
+Rahul Sharma,Mumbai,Grocery,Headphones,2026-01-10,3,2499,0.1,6747.3
+Priya Patil,Mumbai,Grocery,Unknown,2026-01-30,3,999,0.0,2997.0
+Not Mentioned,Mumbai,Unknown,Laptop,2026-02-06,4,799,0.15,2716.6
+Priya Patil,Pune,Electronics,Unknown,2026-02-01,5,4999,0.0,24995.0
+Amit Joshi,Pune,Grocery,Shoes,2026-02-15,2,2499,0.1,4498.2
+Rahul Sharma,Delhi,Clothing,Shoes,2026-01-06,2,999,0.0,1998.0
+Priya Patil,Pune,Clothing,T-Shirt,2026-05-20,5,999,0.15,4245.75
+Rohan Mehta,Mumbai,Grocery,Shoes,2026-04-28,5,2499,0.15,10620.75
+Not Mentioned,Delhi,Clothing,Headphones,2026-01-24,1,499,0.2,399.20000000000005
+Anjali Verma,Mumbai,Electronics,Shoes,2026-05-24,4,4999,0.05,18996.2
+Neha Singh,Mumbai,Grocery,Unknown,2026-01-18,4,799,0.1,2876.4
+Priya Patil,Mumbai,Unknown,Rice,2026-02-05,3,1499,0.1,4047.3
+Neha Singh,Pune,Grocery,Unknown,2026-04-25,1,799,0.05,759.05
+Priya Patil,Pune,Clothing,T-Shirt,2026-05-26,3,799,0.05,2277.15
+Priya Patil,Not Mentioned,Electronics,Rice,2026-01-16,3,1499,0.0,4497.0
+Neha Singh,Mumbai,Electronics,Unknown,2026-01-01,3,1499,0.1,4047.3
+Not Mentioned,Mumbai,Grocery,Laptop,2026-05-08,3,999,0.0,2997.0
+Priya Patil,Delhi,Electronics,Phone,2026-06-01,3,999,0.0,2997.0
+Amit Joshi,Pune,Grocery,Laptop,2026-02-02,2,999,0.0,1998.0
+Rahul Sharma,Delhi,Clothing,Headphones,2026-04-30,3,999,0.05,2847.15
+Rahul Sharma,Not Mentioned,Electronics,Phone,2026-04-25,3,2499,0.0,7497.0
+Neha Singh,Delhi,Grocery,Phone,2026-01-08,2,999,0.0,1998.0
+Anjali Verma,Pune,Grocery,Laptop,2026-03-05,3,999,0.15,2547.45
+Rohan Mehta,Mumbai,Unknown,Shoes,2026-01-01,4,999,0.1,3596.4
+Rahul Sharma,Delhi,Electronics,T-Shirt,2026-01-14,1,1499,0.2,1199.2
+Rohan Mehta,Not Mentioned,Grocery,Unknown,2026-02-14,3,999,0.2,2397.6
+Rahul Sharma,Pune,Electronics,Unknown,2026-05-07,3,999,0.1,2697.3
+Rohan Mehta,Pune,Unknown,T-Shirt,2026-04-18,1,999,0.1,899.1
+Neha Singh,Pune,Clothing,T-Shirt,2026-01-01,4,1499,0.15,5096.599999999999
+Amit Joshi,Pune,Electronics,Unknown,2026-06-28,2,1499,0.05,2848.1
+Priya Patil,Delhi,Grocery,T-Shirt,2026-05-17,3,4999,0.15,12747.449999999999
+Priya Patil,Delhi,Grocery,Headphones,2026-01-03,2,999,0.15,1698.3
+Amit Joshi,Not Mentioned,Grocery,Shoes,2026-06-13,2,999,0.05,1898.1
+Neha Singh,Delhi,Clothing,Unknown,2026-06-27,5,999,0.0,4995.0
+Neha Singh,Not Mentioned,Grocery,Shoes,2026-02-07,1,499,0.15,424.15
+Rohan Mehta,Pune,Grocery,Headphones,2026-03-19,3,1499,0.05,4272.15
+Anjali Verma,Delhi,Electronics,T-Shirt,2026-03-29,2,799,0.15,1358.3
+Rahul Sharma,Mumbai,Electronics,Phone,2026-04-26,3,999,0.15,2547.45
+Anjali Verma,Mumbai,Grocery,Rice,2026-05-11,3,999,0.2,2397.6
+Neha Singh,Not Mentioned,Grocery,Unknown,2026-05-09,3,799,0.1,2157.3
+Rahul Sharma,Delhi,Clothing,Rice,2026-02-24,5,4999,0.1,22495.5
+Anjali Verma,Pune,Electronics,T-Shirt,2026-02-26,2,4999,0.0,9998.0
+Not Mentioned,Not Mentioned,Electronics,Shoes,2026-04-19,2,1499,0.15,2548.2999999999997
+Amit Joshi,Mumbai,Grocery,Phone,2026-02-12,3,2499,0.15,6372.45
+Priya Patil,Not Mentioned,Grocery,Laptop,2026-01-06,2,999,0.15,1698.3
+Amit Joshi,Mumbai,Clothing,T-Shirt,2026-03-21,1,799,0.0,799.0
+Not Mentioned,Mumbai,Electronics,Shoes,2026-02-28,2,999,0.05,1898.1
+Anjali Verma,Delhi,Electronics,Shoes,2026-05-18,3,2499,0.0,7497.0
+Amit Joshi,Not Mentioned,Clothing,Laptop,2026-02-23,3,999,0.15,2547.45
+Neha Singh,Pune,Electronics,Laptop,2026-06-30,3,999,0.2,2397.6
+Not Mentioned,Delhi,Clothing,Headphones,2026-05-02,1,499,0.1,449.1
+Priya Patil,Mumbai,Electronics,Shoes,2026-05-17,5,1499,0.2,5996.0
+Not Mentioned,Not Mentioned,Grocery,Unknown,2026-04-24,4,2499,0.0,9996.0
+Priya Patil,Delhi,Grocery,T-Shirt,2026-06-18,3,999,0.0,2997.0
+Not Mentioned,Mumbai,Unknown,Phone,2026-05-04,2,999,0.2,1598.4
+Rahul Sharma,Delhi,Electronics,Phone,2026-06-16,3,999,0.1,2697.3
+Anjali Verma,Not Mentioned,Grocery,Shoes,2026-06-08,2,2499,0.2,3998.4
+Not Mentioned,Mumbai,Grocery,Headphones,2026-05-13,1,1499,0.15,1274.1499999999999
+Priya Patil,Delhi,Electronics,T-Shirt,2026-06-19,3,999,0.1,2697.3
+Not Mentioned,Pune,Unknown,Rice,2026-01-06,5,499,0.1,2245.5
+Rohan Mehta,Mumbai,Electronics,Phone,2026-01-19,5,999,0.15,4245.75
+Neha Singh,Mumbai,Electronics,Rice,2026-05-10,1,999,0.1,899.1
+Not Mentioned,Pune,Clothing,Rice,2026-04-26,3,999,0.0,2997.0
+Rohan Mehta,Delhi,Grocery,Phone,2026-01-18,2,4999,0.15,8498.3
+Rahul Sharma,Pune,Clothing,Phone,2026-03-03,5,999,0.05,4745.25
+Priya Patil,Pune,Grocery,Shoes,2026-04-27,4,499,0.1,1796.4
+Rohan Mehta,Delhi,Grocery,Rice,2026-02-27,3,1499,0.2,3597.6000000000004
+Amit Joshi,Mumbai,Grocery,Laptop,2026-06-12,2,999,0.0,1998.0
+Amit Joshi,Delhi,Clothing,Headphones,2026-05-30,2,999,0.0,1998.0
+Neha Singh,Mumbai,Clothing,Rice,2026-02-13,3,2499,0.1,6747.3
+Priya Patil,Delhi,Clothing,Shoes,2026-04-06,5,2499,0.15,10620.75
+Anjali Verma,Mumbai,Clothing,Phone,2026-03-26,4,999,0.05,3796.2
+Neha Singh,Delhi,Grocery,Shoes,2026-03-22,2,1499,0.1,2698.2000000000003
+Rahul Sharma,Pune,Electronics,Unknown,2026-04-30,4,999,0.0,3996.0
+Neha Singh,Delhi,Clothing,Unknown,2026-02-04,3,999,0.2,2397.6
+Not Mentioned,Mumbai,Clothing,Phone,2026-03-16,4,4999,0.05,18996.2
+Rohan Mehta,Pune,Unknown,Rice,2026-05-14,3,999,0.0,2997.0
+Neha Singh,Not Mentioned,Unknown,T-Shirt,2026-02-18,3,1499,0.05,4272.15
+Rohan Mehta,Delhi,Grocery,Unknown,2026-06-07,3,1499,0.1,4047.3
+Rahul Sharma,Mumbai,Electronics,Unknown,2026-01-09,4,1499,0.15,5096.599999999999
+Neha Singh,Pune,Grocery,Unknown,2026-05-01,3,1499,0.15,3822.45
+Amit Joshi,Mumbai,Grocery,Unknown,2026-05-02,3,2499,0.15,6372.45
+Anjali Verma,Mumbai,Unknown,Rice,2026-05-11,2,999,0.05,1898.1
+Rohan Mehta,Mumbai,Grocery,Laptop,2026-04-25,5,999,0.1,4495.5
+Priya Patil,Mumbai,Grocery,Laptop,2026-01-20,2,1499,0.15,2548.2999999999997
+Not Mentioned,Not Mentioned,Clothing,Phone,2026-02-27,3,999,0.0,2997.0
+Amit Joshi,Pune,Grocery,T-Shirt,2026-02-27,3,999,0.2,2397.6
+Anjali Verma,Mumbai,Clothing,Rice,2026-02-17,4,1499,0.0,5996.0
+Amit Joshi,Not Mentioned,Grocery,Shoes,2026-03-26,2,499,0.15,848.3
+Not Mentioned,Pune,Electronics,Phone,2026-03-09,5,2499,0.1,11245.5
+Not Mentioned,Not Mentioned,Grocery,Rice,2026-05-22,2,799,0.1,1438.2
+Not Mentioned,Pune,Grocery,Rice,2026-02-02,5,2499,0.15,10620.75
+Rohan Mehta,Pune,Unknown,Phone,2026-01-18,3,999,0.1,2697.3
+Rahul Sharma,Pune,Unknown,Phone,2026-03-15,3,1499,0.15,3822.45
+Priya Patil,Pune,Clothing,Unknown,2026-02-07,3,4999,0.1,13497.300000000001
+Anjali Verma,Not Mentioned,Clothing,Rice,2026-06-30,2,1499,0.1,2698.2000000000003
+Not Mentioned,Delhi,Clothing,Headphones,2026-06-22,5,999,0.2,3996.0
+Neha Singh,Pune,Electronics,T-Shirt,2026-04-13,1,2499,0.1,2249.1
+Not Mentioned,Delhi,Electronics,Laptop,2026-01-26,4,1499,0.15,5096.599999999999
+Rohan Mehta,Not Mentioned,Electronics,Phone,2026-05-29,2,999,0.1,1798.2
+Not Mentioned,Delhi,Unknown,Shoes,2026-05-13,3,999,0.1,2697.3
+Neha Singh,Mumbai,Clothing,Unknown,2026-04-23,3,2499,0.2,5997.6
+Rahul Sharma,Delhi,Electronics,Rice,2026-03-16,4,999,0.2,3196.8
+Amit Joshi,Mumbai,Electronics,Headphones,2026-05-07,2,999,0.1,1798.2
+Priya Patil,Mumbai,Unknown,T-Shirt,2026-06-08,3,999,0.1,2697.3
+Anjali Verma,Not Mentioned,Grocery,Unknown,2026-02-05,3,999,0.1,2697.3
+Anjali Verma,Pune,Clothing,Rice,2026-01-13,2,999,0.0,1998.0
+Priya Patil,Pune,Clothing,Headphones,2026-03-13,1,2499,0.15,2124.15
+Anjali Verma,Pune,Unknown,Rice,2026-05-14,3,2499,0.2,5997.6
+Amit Joshi,Mumbai,Clothing,Rice,2026-03-27,2,799,0.2,1278.4
+Priya Patil,Not Mentioned,Electronics,Unknown,2026-06-21,3,1499,0.1,4047.3
+Priya Patil,Delhi,Grocery,Rice,2026-03-17,5,4999,0.0,24995.0
+Neha Singh,Mumbai,Electronics,Headphones,2026-05-07,3,4999,0.1,13497.300000000001
+Priya Patil,Delhi,Grocery,T-Shirt,2026-05-04,2,499,0.05,948.0999999999999
+Priya Patil,Mumbai,Grocery,Phone,2026-03-07,1,4999,0.1,4499.1
+Rohan Mehta,Pune,Clothing,Phone,2026-05-12,3,4999,0.15,12747.449999999999
+Amit Joshi,Delhi,Clothing,T-Shirt,2026-06-25,3,2499,0.05,7122.15
+Rohan Mehta,Delhi,Grocery,Headphones,2026-05-31,1,999,0.1,899.1
+Rahul Sharma,Mumbai,Clothing,Laptop,2026-05-26,2,999,0.1,1798.2
+Rahul Sharma,Delhi,Grocery,Unknown,2026-04-19,3,999,0.0,2997.0
+Priya Patil,Pune,Electronics,T-Shirt,2026-05-03,2,999,0.1,1798.2
+Amit Joshi,Pune,Grocery,Unknown,2026-05-06,2,999,0.15,1698.3
+Priya Patil,Not Mentioned,Electronics,Shoes,2026-02-18,3,4999,0.1,13497.300000000001
+Amit Joshi,Not Mentioned,Clothing,Laptop,2026-06-11,3,999,0.2,2397.6
+Anjali Verma,Delhi,Unknown,T-Shirt,2026-05-17,3,4999,0.0,14997.0
+Neha Singh,Pune,Clothing,Laptop,2026-03-27,1,4999,0.15,4249.15
+Rohan Mehta,Delhi,Grocery,Shoes,2026-06-14,1,499,0.15,424.15
+Not Mentioned,Mumbai,Grocery,T-Shirt,2026-04-14,3,2499,0.0,7497.0
+Priya Patil,Not Mentioned,Grocery,T-Shirt,2026-04-26,2,1499,0.1,2698.2000000000003
+Priya Patil,Pune,Electronics,Shoes,2026-02-24,2,799,0.15,1358.3
+Amit Joshi,Delhi,Clothing,Headphones,2026-03-11,3,1499,0.1,4047.3
+Rohan Mehta,Mumbai,Grocery,Laptop,2026-06-15,3,999,0.2,2397.6
+Neha Singh,Not Mentioned,Clothing,Laptop,2026-06-27,2,499,0.1,898.2
+Rahul Sharma,Delhi,Clothing,Laptop,2026-03-15,2,999,0.1,1798.2
+Rohan Mehta,Delhi,Unknown,Laptop,2026-01-11,1,799,0.2,639.2
+Anjali Verma,Pune,Unknown,Rice,2026-02-15,3,1499,0.15,3822.45
+Neha Singh,Delhi,Unknown,T-Shirt,2026-02-28,3,499,0.1,1347.3
+Anjali Verma,Delhi,Electronics,T-Shirt,2026-04-28,2,999,0.1,1798.2
+Amit Joshi,Mumbai,Grocery,Unknown,2026-06-24,3,2499,0.1,6747.3
+Amit Joshi,Pune,Electronics,Rice,2026-01-27,3,2499,0.0,7497.0
+Amit Joshi,Mumbai,Grocery,Headphones,2026-04-23,3,4999,0.0,14997.0
+Neha Singh,Mumbai,Electronics,Phone,2026-04-07,4,4999,0.0,19996.0
+Rohan Mehta,Pune,Electronics,Phone,2026-01-18,3,499,0.1,1347.3
+Rahul Sharma,Delhi,Grocery,Phone,2026-06-08,2,799,0.15,1358.3
+Anjali Verma,Pune,Clothing,T-Shirt,2026-04-12,3,999,0.0,2997.0
+Priya Patil,Not Mentioned,Unknown,Shoes,2026-02-15,3,4999,0.0,14997.0
+Neha Singh,Mumbai,Clothing,Laptop,2026-06-30,3,499,0.1,1347.3
+Amit Joshi,Pune,Electronics,Laptop,2026-01-03,1,799,0.0,799.0
+Anjali Verma,Delhi,Clothing,Headphones,2026-06-18,2,799,0.0,1598.0
+Rohan Mehta,Mumbai,Grocery,Laptop,2026-01-30,3,999,0.0,2997.0
+Rahul Sharma,Delhi,Clothing,Unknown,2026-02-25,3,1499,0.05,4272.15
+Rahul Sharma,Pune,Grocery,Laptop,2026-03-24,1,799,0.0,799.0
+Priya Patil,Pune,Grocery,Headphones,2026-02-15,2,999,0.05,1898.1
+Not Mentioned,Not Mentioned,Clothing,T-Shirt,2026-02-26,2,999,0.15,1698.3
+Anjali Verma,Mumbai,Electronics,Shoes,2026-02-18,4,999,0.0,3996.0
+Neha Singh,Pune,Grocery,Unknown,2026-01-28,3,999,0.0,2997.0
+Neha Singh,Delhi,Unknown,T-Shirt,2026-02-09,3,999,0.0,2997.0
+Rohan Mehta,Mumbai,Clothing,Headphones,2026-01-22,3,799,0.1,2157.3
+Neha Singh,Mumbai,Electronics,Shoes,2026-02-05,3,999,0.2,2397.6
+Neha Singh,Pune,Clothing,Rice,2026-02-23,5,2499,0.1,11245.5
+Amit Joshi,Delhi,Grocery,Rice,2026-02-24,3,999,0.15,2547.45
+Neha Singh,Not Mentioned,Grocery,T-Shirt,2026-06-25,3,1499,0.1,4047.3
+Amit Joshi,Pune,Clothing,Headphones,2026-05-23,3,4999,0.0,14997.0
+Not Mentioned,Delhi,Electronics,Unknown,2026-05-04,3,4999,0.0,14997.0
+Rohan Mehta,Not Mentioned,Grocery,Phone,2026-04-06,2,499,0.0,998.0
+Not Mentioned,Mumbai,Clothing,Phone,2026-04-20,4,799,0.1,2876.4
+Amit Joshi,Mumbai,Clothing,Headphones,2026-02-10,3,2499,0.1,6747.3
+Amit Joshi,Pune,Grocery,T-Shirt,2026-05-10,2,999,0.0,1998.0
+Neha Singh,Mumbai,Clothing,Phone,2026-06-01,1,999,0.1,899.1
+Rohan Mehta,Pune,Electronics,Laptop,2026-04-12,3,799,0.1,2157.3
+Not Mentioned,Pune,Grocery,T-Shirt,2026-03-20,3,499,0.0,1497.0
+Rahul Sharma,Not Mentioned,Electronics,Rice,2026-06-18,3,999,0.1,2697.3
+Anjali Verma,Delhi,Unknown,Phone,2026-01-28,1,999,0.1,899.1
+Anjali Verma,Mumbai,Clothing,Shoes,2026-04-25,1,1499,0.15,1274.1499999999999
+Anjali Verma,Not Mentioned,Grocery,Rice,2026-04-24,5,499,0.0,2495.0
+Priya Patil,Pune,Electronics,T-Shirt,2026-03-27,3,2499,0.2,5997.6
+Neha Singh,Mumbai,Electronics,Phone,2026-01-10,4,999,0.0,3996.0
+Neha Singh,Not Mentioned,Unknown,T-Shirt,2026-01-20,3,999,0.0,2997.0
+Rahul Sharma,Mumbai,Electronics,Headphones,2026-01-05,3,999,0.15,2547.45
+Amit Joshi,Delhi,Electronics,Headphones,2026-03-31,2,999,0.0,1998.0
+Rahul Sharma,Mumbai,Electronics,Headphones,2026-05-22,3,2499,0.15,6372.45
+Rahul Sharma,Mumbai,Electronics,T-Shirt,2026-04-16,3,2499,0.0,7497.0
+Neha Singh,Delhi,Clothing,Phone,2026-02-25,2,999,0.1,1798.2
+Amit Joshi,Delhi,Grocery,Unknown,2026-04-30,3,999,0.0,2997.0
+Rahul Sharma,Mumbai,Electronics,Shoes,2026-04-23,4,499,0.1,1796.4
+Not Mentioned,Mumbai,Unknown,Unknown,2026-04-03,2,2499,0.1,4498.2
+Rahul Sharma,Not Mentioned,Unknown,Headphones,2026-03-22,2,1499,0.2,2398.4
+Priya Patil,Pune,Clothing,Shoes,2026-05-02,4,999,0.1,3596.4
+Priya Patil,Pune,Electronics,Unknown,2026-06-29,3,799,0.0,2397.0
+Neha Singh,Delhi,Electronics,T-Shirt,2026-02-28,4,999,0.0,3996.0
+Anjali Verma,Pune,Clothing,Unknown,2026-01-16,2,999,0.0,1998.0
+Rahul Sharma,Mumbai,Clothing,Headphones,2026-06-12,3,799,0.0,2397.0
+Priya Patil,Delhi,Electronics,Unknown,2026-06-28,3,499,0.05,1422.1499999999999
+Amit Joshi,Pune,Unknown,Unknown,2026-06-15,5,2499,0.2,9996.0
+Rahul Sharma,Pune,Clothing,Unknown,2026-05-06,2,2499,0.0,4998.0
+Rahul Sharma,Delhi,Grocery,Unknown,2026-04-08,2,499,0.0,998.0
+Anjali Verma,Mumbai,Clothing,Unknown,2026-06-30,3,1499,0.2,3597.6000000000004
+Priya Patil,Pune,Grocery,Headphones,2026-04-05,3,1499,0.0,4497.0
+Rohan Mehta,Delhi,Clothing,Unknown,2026-02-03,3,1499,0.05,4272.15
+Anjali Verma,Mumbai,Unknown,Unknown,2026-03-28,2,999,0.0,1998.0
+Not Mentioned,Pune,Electronics,Unknown,2026-02-23,3,999,0.15,2547.45
+Rahul Sharma,Pune,Grocery,Rice,2026-01-19,2,1499,0.1,2698.2000000000003
+Amit Joshi,Not Mentioned,Grocery,T-Shirt,2026-01-22,4,999,0.0,3996.0
+Rahul Sharma,Pune,Grocery,Phone,2026-01-20,2,2499,0.1,4498.2
+Anjali Verma,Mumbai,Unknown,Laptop,2026-06-29,3,1499,0.15,3822.45
+Neha Singh,Mumbai,Unknown,Headphones,2026-06-04,3,999,0.0,2997.0
+Anjali Verma,Delhi,Electronics,Unknown,2026-02-22,5,1499,0.1,6745.5
+Amit Joshi,Mumbai,Clothing,Headphones,2026-02-16,2,4999,0.1,8998.2
+Neha Singh,Delhi,Electronics,T-Shirt,2026-02-14,3,4999,0.2,11997.6
+Rahul Sharma,Mumbai,Electronics,Phone,2026-02-18,3,1499,0.1,4047.3
+Anjali Verma,Not Mentioned,Grocery,Unknown,2026-04-09,3,499,0.05,1422.1499999999999
+Anjali Verma,Not Mentioned,Unknown,Laptop,2026-04-20,2,999,0.1,1798.2
+Neha Singh,Pune,Clothing,Unknown,2026-06-09,3,1499,0.15,3822.45
+Priya Patil,Delhi,Unknown,Phone,2026-06-04,2,999,0.2,1598.4
+Neha Singh,Delhi,Electronics,Headphones,2026-04-09,2,999,0.0,1998.0
+Neha Singh,Mumbai,Grocery,Shoes,2026-02-14,3,999,0.0,2997.0
+Not Mentioned,Delhi,Electronics,T-Shirt,2026-01-03,3,999,0.1,2697.3
+Amit Joshi,Delhi,Grocery,Laptop,2026-02-11,3,2499,0.2,5997.6
+Rohan Mehta,Not Mentioned,Unknown,Headphones,2026-02-28,4,799,0.0,3196.0
+Not Mentioned,Delhi,Clothing,Unknown,2026-02-14,2,2499,0.1,4498.2
+Priya Patil,Delhi,Grocery,Shoes,2026-04-25,2,999,0.0,1998.0
+Not Mentioned,Pune,Grocery,T-Shirt,2026-04-21,2,999,0.0,1998.0
+Neha Singh,Pune,Clothing,Phone,2026-03-28,3,799,0.0,2397.0
+Priya Patil,Delhi,Clothing,Phone,2026-04-18,5,4999,0.05,23745.25
+Rahul Sharma,Delhi,Electronics,Unknown,2026-02-08,3,499,0.0,1497.0
+Anjali Verma,Mumbai,Grocery,Rice,2026-02-22,5,999,0.1,4495.5
+Anjali Verma,Mumbai,Unknown,Shoes,2026-03-05,3,999,0.0,2997.0
+Rahul Sharma,Delhi,Clothing,Shoes,2026-03-15,5,1499,0.1,6745.5
+Neha Singh,Pune,Clothing,Unknown,2026-03-19,3,1499,0.05,4272.15
+Rahul Sharma,Mumbai,Electronics,Phone,2026-06-27,1,799,0.15,679.15
+Rahul Sharma,Delhi,Clothing,T-Shirt,2026-01-02,3,4999,0.1,13497.300000000001
+Rahul Sharma,Delhi,Grocery,Headphones,2026-03-24,2,499,0.1,898.2
+Anjali Verma,Delhi,Grocery,Unknown,2026-04-23,3,1499,0.2,3597.6000000000004
+Neha Singh,Delhi,Unknown,Shoes,2026-01-03,3,499,0.1,1347.3
+Anjali Verma,Delhi,Grocery,Phone,2026-06-04,3,799,0.0,2397.0
+Not Mentioned,Mumbai,Clothing,Unknown,2026-03-18,2,999,0.0,1998.0
+Not Mentioned,Pune,Electronics,Shoes,2026-01-31,2,999,0.0,1998.0
+Rahul Sharma,Delhi,Electronics,Shoes,2026-06-13,2,2499,0.0,4998.0
+Neha Singh,Delhi,Clothing,Unknown,2026-05-24,3,999,0.2,2397.6
+Neha Singh,Mumbai,Grocery,Laptop,2026-03-02,3,999,0.1,2697.3
+Rohan Mehta,Delhi,Clothing,Rice,2026-03-13,1,999,0.0,999.0
+Rahul Sharma,Mumbai,Grocery,Laptop,2026-01-10,4,799,0.2,2556.8
+Rahul Sharma,Mumbai,Unknown,Phone,2026-02-17,1,1499,0.1,1349.1000000000001
+Rohan Mehta,Delhi,Grocery,T-Shirt,2026-01-06,3,999,0.1,2697.3
+Rahul Sharma,Delhi,Clothing,Unknown,2026-04-15,3,1499,0.15,3822.45
+Anjali Verma,Pune,Unknown,Headphones,2026-02-17,2,999,0.15,1698.3
+Amit Joshi,Not Mentioned,Clothing,Headphones,2026-02-02,3,2499,0.05,7122.15
+Anjali Verma,Delhi,Electronics,Laptop,2026-03-05,1,2499,0.0,2499.0
+Amit Joshi,Mumbai,Grocery,Phone,2026-02-25,3,1499,0.15,3822.45
+Amit Joshi,Delhi,Grocery,Laptop,2026-06-04,3,1499,0.1,4047.3
+Not Mentioned,Mumbai,Unknown,Unknown,2026-05-28,3,999,0.05,2847.15
+Anjali Verma,Pune,Electronics,T-Shirt,2026-05-22,3,1499,0.0,4497.0
+Priya Patil,Delhi,Grocery,Shoes,2026-03-21,3,999,0.05,2847.15
+Neha Singh,Not Mentioned,Unknown,Laptop,2026-05-04,5,2499,0.15,10620.75
+Rahul Sharma,Not Mentioned,Clothing,Unknown,2026-06-24,2,4999,0.0,9998.0
+Rohan Mehta,Pune,Unknown,Rice,2026-03-08,4,999,0.15,3396.6
+Rohan Mehta,Delhi,Electronics,Headphones,2026-02-19,3,1499,0.0,4497.0
+Rahul Sharma,Pune,Electronics,Shoes,2026-02-06,5,999,0.1,4495.5
+Anjali Verma,Not Mentioned,Electronics,Phone,2026-02-13,2,799,0.0,1598.0
+Anjali Verma,Mumbai,Unknown,Rice,2026-01-20,4,2499,0.15,8496.6
+Anjali Verma,Not Mentioned,Grocery,Headphones,2026-04-07,4,999,0.05,3796.2
+Not Mentioned,Pune,Grocery,Shoes,2026-02-17,3,1499,0.0,4497.0
+Not Mentioned,Delhi,Electronics,Rice,2026-05-27,4,999,0.05,3796.2
+Priya Patil,Pune,Unknown,Headphones,2026-05-05,3,999,0.0,2997.0
+Anjali Verma,Delhi,Unknown,Rice,2026-05-25,3,2499,0.0,7497.0
+Amit Joshi,Delhi,Clothing,T-Shirt,2026-02-27,5,999,0.05,4745.25
+Neha Singh,Mumbai,Unknown,Laptop,2026-02-12,2,999,0.1,1798.2
+Rohan Mehta,Pune,Electronics,Shoes,2026-04-21,3,799,0.05,2277.15
+Not Mentioned,Mumbai,Grocery,Phone,2026-02-05,2,1499,0.2,2398.4
+Amit Joshi,Pune,Clothing,T-Shirt,2026-01-23,3,999,0.0,2997.0
+Amit Joshi,Delhi,Clothing,Phone,2026-03-02,3,999,0.15,2547.45
+Neha Singh,Delhi,Electronics,Headphones,2026-03-17,5,499,0.15,2120.75
+Amit Joshi,Mumbai,Unknown,Laptop,2026-03-14,3,4999,0.0,14997.0
+Amit Joshi,Mumbai,Grocery,Rice,2026-06-30,5,1499,0.0,7495.0
+Anjali Verma,Mumbai,Grocery,T-Shirt,2026-02-04,4,999,0.1,3596.4
+Priya Patil,Delhi,Clothing,Headphones,2026-06-28,4,4999,0.0,19996.0
+Neha Singh,Pune,Grocery,Rice,2026-02-01,1,999,0.15,849.15
+Priya Patil,Pune,Unknown,Phone,2026-06-06,5,999,0.2,3996.0
+Not Mentioned,Mumbai,Electronics,Headphones,2026-05-15,5,1499,0.15,6370.75
+Not Mentioned,Pune,Grocery,Shoes,2026-06-08,1,999,0.05,949.05
+Neha Singh,Delhi,Grocery,Rice,2026-02-25,5,799,0.05,3795.25
+Rahul Sharma,Mumbai,Clothing,Headphones,2026-04-24,4,2499,0.15,8496.6
+Rahul Sharma,Not Mentioned,Grocery,Rice,2026-06-17,3,799,0.15,2037.45
+Priya Patil,Delhi,Grocery,Rice,2026-03-11,3,499,0.0,1497.0
+Rahul Sharma,Mumbai,Electronics,Phone,2026-04-07,5,4999,0.2,19996.0
+Priya Patil,Not Mentioned,Grocery,Headphones,2026-06-08,3,999,0.1,2697.3
+Neha Singh,Delhi,Electronics,Phone,2026-01-07,3,999,0.1,2697.3
+Rohan Mehta,Pune,Clothing,Unknown,2026-04-22,2,2499,0.1,4498.2
+Rohan Mehta,Pune,Clothing,T-Shirt,2026-05-11,3,2499,0.0,7497.0
+Anjali Verma,Pune,Clothing,Phone,2026-01-07,2,4999,0.05,9498.1
+Not Mentioned,Delhi,Grocery,Phone,2026-02-02,2,4999,0.0,9998.0
+Neha Singh,Pune,Electronics,Laptop,2026-06-15,2,1499,0.2,2398.4
+Amit Joshi,Not Mentioned,Electronics,Phone,2026-03-17,2,999,0.0,1998.0
+Anjali Verma,Pune,Grocery,Phone,2026-03-30,1,999,0.05,949.05
+Rahul Sharma,Pune,Grocery,T-Shirt,2026-03-20,3,999,0.15,2547.45
+Not Mentioned,Delhi,Electronics,Laptop,2026-02-18,2,999,0.2,1598.4
+Neha Singh,Pune,Grocery,Phone,2026-01-08,5,999,0.0,4995.0
+Neha Singh,Pune,Clothing,Unknown,2026-03-04,1,999,0.1,899.1
+Priya Patil,Not Mentioned,Grocery,Phone,2026-06-14,3,1499,0.15,3822.45
+Priya Patil,Mumbai,Electronics,Unknown,2026-05-19,2,1499,0.2,2398.4
+Amit Joshi,Mumbai,Electronics,Shoes,2026-02-20,2,999,0.1,1798.2
+Rahul Sharma,Not Mentioned,Electronics,Laptop,2026-01-16,2,4999,0.05,9498.1
+Neha Singh,Not Mentioned,Unknown,T-Shirt,2026-04-20,3,1499,0.15,3822.45
+Neha Singh,Not Mentioned,Grocery,Laptop,2026-05-04,3,499,0.0,1497.0
+Amit Joshi,Not Mentioned,Electronics,T-Shirt,2026-02-16,1,999,0.0,999.0
+Anjali Verma,Pune,Electronics,T-Shirt,2026-04-12,5,2499,0.0,12495.0
+Neha Singh,Not Mentioned,Grocery,Shoes,2026-04-17,5,999,0.1,4495.5
+Rahul Sharma,Mumbai,Clothing,T-Shirt,2026-03-04,3,999,0.1,2697.3
+Rahul Sharma,Not Mentioned,Electronics,Shoes,2026-06-04,3,1499,0.2,3597.6000000000004
+Amit Joshi,Delhi,Grocery,Rice,2026-05-30,4,999,0.0,3996.0
+Priya Patil,Pune,Grocery,Shoes,2026-02-02,3,2499,0.0,7497.0
+Anjali Verma,Pune,Clothing,T-Shirt,2026-01-23,2,2499,0.15,4248.3
+Not Mentioned,Delhi,Clothing,Headphones,2026-03-18,2,1499,0.0,2998.0
+Anjali Verma,Delhi,Electronics,Laptop,2026-04-08,1,999,0.1,899.1
+Neha Singh,Pune,Clothing,Laptop,2026-04-06,3,4999,0.1,13497.300000000001
+Neha Singh,Pune,Grocery,Shoes,2026-03-19,3,999,0.05,2847.15
+Anjali Verma,Mumbai,Unknown,Unknown,2026-01-19,2,999,0.0,1998.0
+Rohan Mehta,Mumbai,Electronics,Laptop,2026-03-24,4,1499,0.1,5396.400000000001
+Anjali Verma,Not Mentioned,Clothing,Headphones,2026-04-18,3,999,0.2,2397.6
+Priya Patil,Delhi,Clothing,Laptop,2026-06-05,5,999,0.2,3996.0
+Priya Patil,Pune,Clothing,Unknown,2026-06-30,3,999,0.0,2997.0
+Rahul Sharma,Delhi,Clothing,Laptop,2026-02-27,2,999,0.1,1798.2
+Amit Joshi,Mumbai,Grocery,Phone,2026-05-27,3,2499,0.1,6747.3
+Not Mentioned,Pune,Grocery,Shoes,2026-01-09,3,4999,0.15,12747.449999999999
+Neha Singh,Not Mentioned,Electronics,Laptop,2026-04-04,3,2499,0.0,7497.0
+Neha Singh,Delhi,Electronics,Phone,2026-03-13,2,4999,0.0,9998.0
+Rahul Sharma,Not Mentioned,Grocery,Unknown,2026-02-06,3,999,0.1,2697.3
+Rahul Sharma,Mumbai,Grocery,Laptop,2026-03-05,3,799,0.1,2157.3
+Rahul Sharma,Mumbai,Unknown,T-Shirt,2026-01-20,4,1499,0.15,5096.599999999999
+Amit Joshi,Delhi,Clothing,Unknown,2026-03-18,3,1499,0.1,4047.3
+Not Mentioned,Not Mentioned,Clothing,Unknown,2026-06-08,2,999,0.0,1998.0
+Not Mentioned,Delhi,Electronics,Laptop,2026-01-02,5,799,0.05,3795.25
+Not Mentioned,Delhi,Grocery,Shoes,2026-05-14,1,799,0.0,799.0
+Amit Joshi,Mumbai,Electronics,Unknown,2026-03-31,2,4999,0.2,7998.400000000001
+Amit Joshi,Delhi,Electronics,Phone,2026-05-20,1,1499,0.0,1499.0
+Anjali Verma,Mumbai,Clothing,Rice,2026-04-02,3,1499,0.1,4047.3
+Rohan Mehta,Delhi,Clothing,Headphones,2026-03-26,2,999,0.1,1798.2
+Rohan Mehta,Delhi,Clothing,T-Shirt,2026-02-19,2,999,0.0,1998.0
+Neha Singh,Mumbai,Electronics,T-Shirt,2026-01-09,3,799,0.15,2037.45
+Rahul Sharma,Mumbai,Electronics,T-Shirt,2026-04-20,3,499,0.1,1347.3
+Not Mentioned,Pune,Electronics,Shoes,2026-04-14,2,1499,0.15,2548.2999999999997
+Amit Joshi,Pune,Clothing,Laptop,2026-03-28,3,999,0.15,2547.45
+Amit Joshi,Mumbai,Grocery,Headphones,2026-04-02,4,1499,0.0,5996.0
+Not Mentioned,Delhi,Electronics,Rice,2026-01-13,2,1499,0.0,2998.0
+Neha Singh,Mumbai,Electronics,Shoes,2026-01-09,5,1499,0.15,6370.75
+Priya Patil,Delhi,Grocery,Shoes,2026-06-01,3,4999,0.2,11997.6
+Anjali Verma,Pune,Unknown,T-Shirt,2026-03-11,3,499,0.2,1197.6000000000001
+Amit Joshi,Not Mentioned,Grocery,Rice,2026-03-13,3,1499,0.05,4272.15
+Not Mentioned,Pune,Grocery,Laptop,2026-04-28,4,999,0.0,3996.0
+Amit Joshi,Mumbai,Clothing,Rice,2026-04-24,2,2499,0.15,4248.3
+Amit Joshi,Mumbai,Electronics,T-Shirt,2026-01-25,4,999,0.0,3996.0
+Not Mentioned,Delhi,Grocery,Shoes,2026-04-02,2,999,0.1,1798.2
+Anjali Verma,Pune,Grocery,Shoes,2026-02-18,2,799,0.0,1598.0
+Amit Joshi,Delhi,Grocery,T-Shirt,2026-03-31,1,799,0.15,679.15
+Amit Joshi,Delhi,Electronics,Unknown,2026-02-10,2,799,0.1,1438.2
+Neha Singh,Delhi,Electronics,Rice,2026-05-02,3,999,0.0,2997.0
+Rohan Mehta,Delhi,Grocery,T-Shirt,2026-05-14,1,4999,0.0,4999.0
+Neha Singh,Pune,Unknown,Headphones,2026-03-09,3,999,0.15,2547.45
+Rohan Mehta,Pune,Grocery,Rice,2026-03-11,5,1499,0.1,6745.5
+Not Mentioned,Delhi,Grocery,Unknown,2026-03-17,3,499,0.05,1422.1499999999999
+Amit Joshi,Delhi,Grocery,Unknown,2026-04-27,2,999,0.15,1698.3
+Not Mentioned,Pune,Unknown,Laptop,2026-02-12,3,2499,0.15,6372.45
+Not Mentioned,Delhi,Electronics,Phone,2026-03-14,5,999,0.0,4995.0
+Anjali Verma,Pune,Grocery,T-Shirt,2026-05-01,3,4999,0.1,13497.300000000001
+Neha Singh,Pune,Electronics,Headphones,2026-03-19,3,1499,0.15,3822.45
+Not Mentioned,Delhi,Clothing,Headphones,2026-04-09,2,999,0.1,1798.2
+Anjali Verma,Delhi,Grocery,Unknown,2026-01-23,2,799,0.2,1278.4
+Anjali Verma,Mumbai,Clothing,Phone,2026-05-21,2,4999,0.0,9998.0
+Anjali Verma,Not Mentioned,Electronics,Headphones,2026-03-19,2,999,0.1,1798.2
+Amit Joshi,Pune,Electronics,Unknown,2026-01-16,3,999,0.1,2697.3
+Anjali Verma,Pune,Unknown,Laptop,2026-06-30,3,799,0.05,2277.15
+Neha Singh,Pune,Electronics,Headphones,2026-03-06,2,2499,0.0,4998.0
+Anjali Verma,Delhi,Clothing,Headphones,2026-05-17,2,1499,0.15,2548.2999999999997
+Not Mentioned,Mumbai,Electronics,Laptop,2026-04-16,5,799,0.05,3795.25
+Priya Patil,Delhi,Clothing,Laptop,2026-05-06,3,1499,0.15,3822.45
+Rahul Sharma,Delhi,Grocery,Laptop,2026-03-09,2,999,0.1,1798.2
+Rohan Mehta,Mumbai,Grocery,Phone,2026-05-27,5,2499,0.15,10620.75
+Priya Patil,Mumbai,Electronics,Headphones,2026-06-23,4,999,0.1,3596.4
+Not Mentioned,Delhi,Unknown,Unknown,2026-01-12,1,999,0.0,999.0
+Not Mentioned,Pune,Clothing,Headphones,2026-06-20,3,499,0.0,1497.0
+Neha Singh,Delhi,Clothing,Headphones,2026-05-25,3,2499,0.1,6747.3
+Not Mentioned,Mumbai,Unknown,T-Shirt,2026-01-22,3,499,0.0,1497.0
+Neha Singh,Delhi,Clothing,Phone,2026-05-24,4,999,0.0,3996.0
+Neha Singh,Delhi,Grocery,Rice,2026-01-19,2,799,0.2,1278.4
+Priya Patil,Pune,Electronics,Headphones,2026-04-30,2,799,0.0,1598.0
+Rohan Mehta,Not Mentioned,Grocery,Unknown,2026-02-06,4,999,0.15,3396.6
+Priya Patil,Delhi,Unknown,Headphones,2026-06-15,2,4999,0.1,8998.2
+Rohan Mehta,Not Mentioned,Electronics,Unknown,2026-03-12,1,4999,0.05,4749.05
+Not Mentioned,Delhi,Unknown,Shoes,2026-01-12,2,999,0.0,1998.0
+Not Mentioned,Delhi,Clothing,Rice,2026-06-21,3,999,0.1,2697.3
+Priya Patil,Mumbai,Clothing,Laptop,2026-05-02,1,1499,0.15,1274.1499999999999
+Rahul Sharma,Delhi,Unknown,Shoes,2026-02-12,3,1499,0.1,4047.3
+Rohan Mehta,Delhi,Electronics,T-Shirt,2026-05-30,3,4999,0.2,11997.6
+Amit Joshi,Mumbai,Unknown,Phone,2026-04-25,2,1499,0.1,2698.2000000000003
+Neha Singh,Pune,Unknown,Unknown,2026-05-13,4,499,0.2,1596.8000000000002
+Rahul Sharma,Delhi,Grocery,T-Shirt,2026-02-21,2,799,0.05,1518.1
+Amit Joshi,Mumbai,Clothing,Headphones,2026-01-15,3,999,0.2,2397.6
+Rohan Mehta,Pune,Grocery,T-Shirt,2026-06-25,2,1499,0.15,2548.2999999999997
+Amit Joshi,Pune,Clothing,T-Shirt,2026-03-27,5,999,0.15,4245.75
+Not Mentioned,Mumbai,Electronics,Rice,2026-04-18,3,4999,0.15,12747.449999999999
+Not Mentioned,Delhi,Electronics,T-Shirt,2026-01-12,4,4999,0.0,19996.0
+Rohan Mehta,Delhi,Unknown,Rice,2026-06-07,3,999,0.0,2997.0
+Anjali Verma,Mumbai,Clothing,Headphones,2026-02-21,3,999,0.0,2997.0
+Not Mentioned,Mumbai,Grocery,Rice,2026-01-03,4,999,0.1,3596.4
+Priya Patil,Pune,Grocery,Headphones,2026-02-20,5,2499,0.1,11245.5
+Anjali Verma,Mumbai,Unknown,Shoes,2026-01-28,4,999,0.1,3596.4
+Rohan Mehta,Mumbai,Clothing,Phone,2026-03-26,2,999,0.1,1798.2
+Rahul Sharma,Mumbai,Clothing,Laptop,2026-04-30,2,799,0.15,1358.3
+Amit Joshi,Pune,Clothing,Rice,2026-03-01,4,1499,0.05,5696.2
+Priya Patil,Pune,Grocery,Headphones,2026-02-01,3,2499,0.15,6372.45
+Anjali Verma,Delhi,Electronics,Shoes,2026-02-12,2,999,0.15,1698.3
+Not Mentioned,Mumbai,Unknown,Rice,2026-01-29,4,2499,0.0,9996.0
+Anjali Verma,Mumbai,Unknown,Shoes,2026-06-05,3,4999,0.0,14997.0
+Priya Patil,Mumbai,Electronics,Phone,2026-04-04,3,999,0.0,2997.0
